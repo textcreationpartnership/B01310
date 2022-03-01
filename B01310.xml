@@ -1,0 +1,1235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the most material interlocutors of the Lords of Session, during the dependence before them, of the cause of the two Danish ships, the Palm-tree, and Patience of Sunderburg, adjudged prise by the High-Court of Admiralty, anno 1672. Against Alexander Acheson captain of the frigat ... by which said ships were brought up, and the owners of the said frigat ... . Excerped out of the two decreets of the lords pronounced in favour of the strangers, 25. February 1674. but not extracted till the 30. of July 1680. With the Articles of His Majestie's treaty with the King of Denmark, relating to the case of ships and goods taken at sea in time of war ... and divers other papers, related to in the decreets.</title>
+            <author>Scotland. Court of Session.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01310</idno>
+            <idno type="STC">Wing A137</idno>
+            <idno type="STC">ESTC R222202</idno>
+            <idno type="EEBO-CITATION">51784344</idno>
+            <idno type="OCLC">ocm 51784344</idno>
+            <idno type="VID">174772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174772)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2697:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the most material interlocutors of the Lords of Session, during the dependence before them, of the cause of the two Danish ships, the Palm-tree, and Patience of Sunderburg, adjudged prise by the High-Court of Admiralty, anno 1672. Against Alexander Acheson captain of the frigat ... by which said ships were brought up, and the owners of the said frigat ... . Excerped out of the two decreets of the lords pronounced in favour of the strangers, 25. February 1674. but not extracted till the 30. of July 1680. With the Articles of His Majestie's treaty with the King of Denmark, relating to the case of ships and goods taken at sea in time of war ... and divers other papers, related to in the decreets.</title>
+                  <author>Scotland. Court of Session.</author>
+               </titleStmt>
+               <extent>[2], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the strangers,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>in the year, 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Acheson, Alexander fl. 1672.</term>
+               <term>Palm-tree (Ship).</term>
+               <term>Patience (Ship).</term>
+               <term>Maritime law --  Scotland --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174772:1" rendition="simple:additions"/>
+            <pb facs="tcp:174772:1"/>
+            <pb facs="tcp:174772:2"/>
+            <pb facs="tcp:174772:2"/>
+            <p>AN ABSTRACT Of the moſt material INTERLOCUTORS of the LORDS of SESSION, during the dependence before them, of the CAUSE of the two <hi>Daniſh</hi> Ships, the <hi>Palm-tree,</hi> and <hi>Patience</hi> of <hi>Sunderburg,</hi> adjudg<g ref="char:EOLhyphen"/>ed <hi>Priſe</hi> by the High-Court of <hi>Admirality,</hi> anno 1672. AGAINST <hi>Alexander Acheſon</hi> Captain of the Frigat, or Privat Man of War, by which the ſaid Ships were brought up, and the Owners of the ſaid Frigat, <hi>viz. John</hi> Duke of <hi>Rothes,</hi> Lord High Chancellor, and <hi>William</hi> Lord <hi>Cochran,</hi> deceaſſed; <hi>Charles Maitland</hi> of <hi>Haltoun,</hi> Lord Theſaurer Deput, (and one of the Lords of Seſſion,) Sir <hi>John Cohran</hi> of <hi>Ochiltrie,</hi> Sir <hi>William Bruce</hi> of <hi>Balcaskie,</hi> (Clerk of the Bills,) Sir <hi>James Standfield</hi> of <hi>New-milnes, Robert Baird</hi> of <hi>Sauch<g ref="char:EOLhyphen"/>tonhall,</hi> Sir <hi>William Binning,</hi> &amp;c. EXCERPED Out of the two DECREETS of the LORDS <hi>pronounced</hi> in favour of the <hi>Strangers,</hi> 25. <hi>February</hi> 1674. but not <hi>extracted</hi> till the 30. of <hi>July,</hi> 1680. WITH The Articles of His Majeſtie's TREATY with the King of <hi>Denmark,</hi> relating to the Caſe of <hi>Ships</hi> and <hi>Goods</hi> taken at Sea in time of War; an Article of His Majeſties INSTRUCTIONS, inſiſted on by the <hi>Capers,</hi> againſt theſe Ships; His Majeſtie's LETTER to the LORDS (in the Caſe of another Ship) relative to His IN<g ref="char:EOLhyphen"/>STRUCTIONS; and <hi>divers other Papers,</hi> related to in the DECREETS.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed for the STRANGERS, in the Year, 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:174772:3"/>
+            <pb n="1" facs="tcp:174772:3"/>
+            <p>An Abſtract of the moſt material <hi>Interlocutors</hi> in the two <hi>Decreets</hi> of the Lords of Seſſion, in favour of the Owners of the two <hi>Daniſh</hi> Ships, the <hi>Palm-tree,</hi> and <hi>Patience</hi> of <hi>Sunderburg,</hi> againſt Captain <hi>Acheſon</hi> and his Owners, in whoſe favour they were adjudged, Reducing the Admirals Decreets, and ordaining the <hi>Capers</hi> to pay the Value of the Ships and Goods.</p>
+            <div type="part">
+               <head>Upon Debate of the Reaſons of Reduction, <hi>in praeſentia,</hi>
+               </head>
+               <p>
+                  <hi>22. February 1673. THE LORDS FIND</hi> that Reaſon of Adjudication, that the Strangers had not Paſſes conform to the <hi>Formula</hi> agreed upon in the Treaty betwixt the Kings Maieſty and the King of <hi>Denmark,</hi> (albeit the Ships looſed from <hi>Norway,</hi> in the beginning of <hi>Iuly, 1672.</hi> long after the breaking out and knowledge of the War) not to inferre a Confiſcation of the Ships, and Loadings alone; But that it importeth a juſt ground to ſeize and bring the ſame to Tryal, and that it putteth the burden of Probation upon the Strangers, by Documents and Witneſſes above exception: That the Ships and Loadings belong to the Kings Allies, and Freemen, and not to the Kings Enemies <hi>AND FIND,</hi> that the Oaths of the Skippers and Owners, which would have been ſufficient, if they had been adhibited at the obtaining of the Paſſes, conform to the <hi>Formula,</hi> are not now ſufficient to clear the Property of the Ships and Loadings. <hi>AND THAT</hi> the being of no Paſſes aboard relative to the Voy<g ref="char:EOLhyphen"/>age, but general Paſſes before the War, and that by the Skippers Oaths, it appears that they con<g ref="char:EOLhyphen"/>cealed the Fraught-Brieffs, and that they were hid apart from the reſt of the Documents and found by the Privateer; and bear a greater Fraught to be paid, in caſe the Ships were brought up to <hi>Holland;</hi> provided a ſafe Delivery were made of the Goods; <hi>DOTH IMPORT,</hi> an intended Delivery of the Goods in <hi>Holland,</hi> notwithſtanding of the Miſſives and Documents aboard. <hi>AND FIND</hi> the ſame grounds joyntly to be a ſufficient preſumptive Probation of a Contrivance, and that the Ships and Goods are not free. <hi>BVT YET,</hi> to admit of a contrary poſitive Probation by Documents and Witneſſes above exception; That the Ships and Loadings belong to the Subjects of <hi>Denmark,</hi> His Majeſties Allies, unleſs the Privateer prove the ſame to belong to the Kings Enemies. <hi>LIKE AS THE LORDS FIND,</hi> that the true Port being concealled, or made Arbitrary by the Fraught-Briefs, if the Privateer ſhould inſtruct. That Dail-boards ſuch as were in theſe Ships, are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounterband by the Cuſtome of the Admirality of <hi>England</hi> or <hi>Holland,</hi> that ground was ſufficient, (though the Ships and Goods were proven to belong to Freemen) to infer Confiſcation of both. <hi>THEREFORE THE LORDS <hi>granted Commiſſion mutually, to either Party, for proving the Property and Value of the Ships and Goods; the quantity of the Loadings, and that the Port deſigned was</hi> London: <hi>And to the Defenders, that the Goods were Counterband.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>But upon a Petition given in by the Purſuers, Repreſenting a miſtake in the ſaid <hi>Interlocutor,</hi> as to the matter of the Fraught, (the Fraught being not a greater for <hi>Holland,</hi> than for <hi>England,</hi> but a leſſe.) And craving the Benefit of a contrary Probation, as to the matter of Counter<g ref="char:EOLhyphen"/>band, <hi>&amp;c.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>Eodem die.</hi> The Lords ordain theſe words, <hi>Viz, [That the Fraught-Briefs bear a greater Fraught to be paid, in caſe the Ships were brought up to <hi>Holland,</hi> provided a ſafe Delivery were made of the Goods, which the Lords find, did import an intended Delivery of the Goods in <hi>Holland,</hi> Notwithſtanding of the Miſſives and Documents aboard;</hi> to be left out of the <hi>Interlocutor,</hi> and grant a contrary Probation to the Purſuers to prove, That Dails are not Counterband; And ordain the Probation to be <hi>hinc inde,</hi> vp Docu<g ref="char:EOLhyphen"/>ments above exception.</p>
+               <p>
+                  <hi>Upon Report made of the Commiſſions, by the Purſuers from the Magiſtrates of <hi>Sunderbare</hi> and <hi>Chriſtiania,</hi> and from the Lord Mayor and Aldermen of <hi>London,</hi> with an Atteſtation from the Admirality of <hi>Holland,</hi> and His Majeſties Declaration in favour of the <hi>Danes.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>25. February, 1674.</hi> The Lords having adviſed the Reports with the Depoſitions of the Witneſſes, contained therein. <hi>&amp;c.</hi> Then find that the property of the ſaid Ships and Goods, doth belong to <hi>Carſten Matſen</hi> and <hi>Hanſe Peterſen.</hi> and their Owners, His Majeſties Allies, And therefore Reduce the Decreets of Adjudication, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Upon Informations given in <hi>hinc inde,</hi> in Relation to His <hi>Majesties</hi> INSTRUCTIONS.</head>
+               <p>23. <hi>Iuly,</hi> 1674. The Lords having conſidered the <hi>Informations</hi> given in by either Party, together with His Majeſties <hi>Inſtructions,</hi> eſpecially that Artcle thereof, concerning concealled Documents, they notwithſtanding thereof, adhere to their former Interlocutors and Decreets, Reducing the fore<g ref="char:EOLhyphen"/>ſaid Decreets of Adjudication, obtained before the Admiral, in regard of the Probation, That the Ships and Goods belong to the Kings Allies, and Freemen.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Item,</hi> Upon a Hearing in Preſence, upon His <hi>Majeſties</hi> INSTRUCTIONS.</head>
+               <p>30. <hi>Iuly,</hi> 1674. The Lords having heard, &amp;c. They adhere to their former Interlocutor, And ordain the Decreets to be Extracted.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:174772:4"/>
+               <head>Upon a Petition of the <hi>Capers,</hi> for a new Hearing, and Delay till <hi>November.</hi>
+               </head>
+               <p>Eodem die. <hi>The Lords having conſidered the ſaid Supplication.</hi> ADHERE <hi>to their former Inter<g ref="char:EOLhyphen"/>locutors. And ordain each Party to name a Merchant for Valuing of the Ships and Goods, and remit to the Lord</hi> Collingtoun, <hi>to conſider the Valvation, and to give his determination thereanent; And ordain the Decreets to be extracted accordingly.</hi>
+               </p>
+               <p>The <hi>Capers</hi> at this time being Trading with the Ships, and the Strangers by the <hi>Envoy</hi> of <hi>Denmark,</hi> having Repreſented it to the King, and made Application to His Majeſty, for having the Values of their Ships and Goods decerned to them, conform to their probation at <hi>Sunderburg</hi> and <hi>London;</hi> with the Damages and Charges they had ſuſtained: And His Majeſty having recommended the caſe to his Grace the Duke of <hi>Lauderdale;</hi> All which after diverſe years expectation of the Succeſs, taking no effect; The Strangers apply to the Lords in the Winter Seſ<g ref="char:EOLhyphen"/>ſion, 1679. And after long Tergiverſation of the Capers obtain at laſt this Interlocutor, upon a full hearing in preſence.</p>
+               <p>27. February, 1680. <hi>The Lords having called both Parties and their Procurators, in their own preſence, and fully heard,</hi> &amp;c. <hi>And having adviſed the Reports, anent the value of the Ships and Goods, from</hi> Lon<g ref="char:EOLunhyphen"/>don <hi>and</hi> Sunderburg, THEY FIND, <hi>the Ship, the</hi> Palm-tree, <hi>proven to be worth</hi> 5000. <hi>Ricks Dollers. And, the Ship, the</hi> Patience, <hi>proven to be worth</hi> 3500. <hi>Ricks Dollers, and each hundred Dails of which the Loading of either Ship conſiſted, proven to be betwixt</hi> 5. <hi>and</hi> 6. <hi>lib. Sterling;</hi> AND DECERNE <hi>the Value of the Ships as proven. And modifie the price of each hundred Dails to</hi> 50. <hi>lib. Scots, &amp;c.</hi>
+               </p>
+               <list>
+                  <head>Againſt this <hi>Interlocutor,</hi> the <hi>Capers</hi> having Repreſented to the Lords, by a Petition given in the laſt day of the Seſſion.</head>
+                  <item>1. <hi>Toat the Proceſs had ſlept, and behoved to be wakned.</hi>
+                  </item>
+                  <item>2. <hi>Several of the Strangers were dead, whoſe Factories behoved to be renewed.</hi>
+                  </item>
+                  <item>3. <hi>By the King's INSTRUCTIONS, double and conceall'd Documents (both which occurred in theſe Ships) were a poſitive ground of Confiſcation.</hi>
+                  </item>
+                  <item>4. <hi>The Value could only be Decerned as the Ships and Goods were worth here.</hi>
+                  </item>
+                  <item>5. <hi>The Goods were Counterband by the</hi> Dutch <hi>Placaets.</hi>
+                  </item>
+                  <item>6. <hi>The Value behoved to be Decerned according to the Roupe.</hi>
+                  </item>
+                  <item>7. <hi>They behoved to have Allowance of the Admiral's Tenths; The Kings Fifteenths, and the Companies Thirds.</hi>
+                  </item>
+               </list>
+               <p>28. February, 1680. <hi>The Lords ſuperſede Extracting of the Decreets till the</hi> 1. <hi>of</hi> Iune. <hi>To the ef<g ref="char:EOLhyphen"/>fect the Defenders betwixt and that time may produce the Roupe, which was made of the Ships.</hi>
+               </p>
+               <p>And when <hi>June</hi> was come, and an Anſwer made to their Petition by the Strangers, upon Conſideration of Both,</p>
+               <p>22. Iune 1680. <hi>The Lords adhere to their former Interlocutor of the</hi> 27. Feb. 1680. <hi>and Interlocutors preceeding,</hi> AND ALLOW <hi>the Purſuers the Annual-rent of the ſums Decerned as the Value of the Ships from the Moneth of</hi> February, 1674. <hi>or after ſuch time as the Defenders traded with the ſame; The Purſuers proving the Defenders have tradrd with them ever ſince: And if the Purſuers and their Procurators will not burden themſelves with the ſaid Probation; The Lords ordaine the Decreets to be Extracted as to the prices according to the foreſaid laſt Interlocutor.</hi>
+               </p>
+               <p>After which Interlocutor, upon a Petition given in by the Strangers, referring the Defenders Trading with the Ships to their Oaths; a Term was aſſigned them to Compear and Depone, And whereupon an Act being Extracted, and called, The Term was circumduced againſt them.</p>
+               <p>After the Extracting of the foreſaid Act, whereupon the Term was circumduced againſt the Capers for not compearing to Depone anent their Trading with the Ships, Captain <hi>Acheſon,</hi> Sir <hi>William Bruce,</hi> Sir <hi>James Standfield,</hi> Sir <hi>William Binning,</hi> and others, his Owners gave in a Pe<g ref="char:EOLhyphen"/>tition: Upon which, though <hi>ipſis verbis,</hi> the ſame with the Petition immediately preceeding; the Lords ordained both Parties procurators to be heard <hi>in praeſentia,</hi> as they were about three weeks after: And then upon a moſt contentious Debate, as to the <hi>Dutch</hi> Placaets, Double and Con<g ref="char:EOLhyphen"/>ceall'd Documents, the King's Inſtructions, <hi>&amp;c.</hi> By an Interlocutor.</p>
+               <p>20 Iuly, 1680. <hi>The Lords adhere to their former Interlocutors.</hi> BVT ALLOW <hi>Deduction of the Admiral's Tenths, and the King's Fifteenths; The Defenders producing Diſcharges thereof before Extracting of the Decreets.</hi>
+               </p>
+               <p>After this Interlocutor, the Capers produced a Roupe, which they pretended they had made of the Ships, a ter they were declared free; And gave in a Petition, wherein they again recurr to the pretence of Counterband; Upon Conſideration whereof, and of the Anſwer made by the Purſuers to the Roupe.</p>
+               <pb n="3" facs="tcp:174772:4"/>
+               <p>24. Iuly, 1680. <hi>The Lords refuſe to grant the Deſire of the Petition in reſpect that point a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Counterband was formerly conſidered by them;</hi> AND REFVSE <hi>to ſuſtain the Roupe in regard the ſame was not formal, and that it was poſterior to the Lords Interlocutor; whereby they De<g ref="char:EOLhyphen"/>clared the Ships and Goods free:</hi> AND THEREFORE ADHERE <hi>to their former Interlocu<g ref="char:EOLhyphen"/>tors, And ordaine the Decreets to be Extracted.</hi>
+               </p>
+               <p>Then the <hi>Capers</hi> gave in another Petition, Repreſenting,
+<list>
+                     <item>1. <hi>They could be onely liable for the Ships as Rouped, and for the Goods as ſold to the Ex<g ref="char:EOLhyphen"/>chequer.</hi>
+                     </item>
+                     <item>2. <hi>Former Interlocutors allowed them to instruct at what Rates the Ships and Goods were ſold here, And therefore they could be no further liable than as they ſold.</hi>
+                     </item>
+                     <item>3. <hi>They could not be lyable for Annual-Rent, Becauſe thoſe of them who bought the Shipe might as Lawfully Trade with them as a Stranger.</hi>
+                     </item>
+                     <item>4. <hi>They behoved to have Allowance of the Tenths, Fifteenths, and Thirds.</hi>
+                     </item>
+                     <item>5. <hi>They could not be lyable</hi> in ſolidum, <hi>but</hi> ſinguli pro virili.</item>
+                  </list>
+               </p>
+               <p>Which being Conſidered,</p>
+               <p>29. Iuly, 1680. <hi>The Lords notwithſtanding thereof Adhere to their former Interlocutors, in reſpect there was nothing therein Repreſented, but what had been formerly under their Conſideration; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> refuſe to allow any Deduction upon accompt of the Companies Thirds.</hi>
+               </p>
+               <p>After this the <hi>Capers</hi> gave in a new Petition, Craving a Delay till <hi>November</hi> thereafter, upon theſe Grounds;
+<list>
+                     <item>1. <hi>That ſeveral of the Purſuers were dead, whoſe Factories were therefore expired.</hi>
+                     </item>
+                     <item>2. <hi>Several of the Defenders were dead, (as namely, the Lord</hi> Cochran) <hi>whoſe Repreſentatives be<g ref="char:EOLhyphen"/>hoved to be called.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Which Conſidered,</p>
+               <p>30. Iuly, 1680. <hi>The Lords notwithſtanding of what was thereby repreſented;</hi> ADHERE <hi>to their former Interlocutors; And refuſe to delay the Extracting of the Decreets.</hi>
+               </p>
+               <p>Which Decreets nevertheleſs when Extracted, were (upon the very ſame pretences which had been ſo often Repelled by the whole Lords in time of Seſſion) Suſpended by three of the Lords in time of Vacance.</p>
+            </div>
+            <div type="document">
+               <head>Articles of the Treaty betwixt His <hi>Majesty</hi> and the King of <hi>Den<g ref="char:EOLhyphen"/>mark,</hi> in the year 1670. Printed at <hi>London, Anno,</hi> 1672.</head>
+               <div type="section">
+                  <head>ARTICLE XX.</head>
+                  <p>BUt leſt ſuch freedom of Navigation or Paſſage of the one Allie, and his Subjects and People, during the War, that the other may have by Sea or Land, with any other Country, may be to the pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>judice of the other Allie; And that Goods and Merchandiſe belonging to the Enemy, may be fraudulently concealled under colour of being in Amity: For the pre<g ref="char:EOLhyphen"/>venting of Fraud, and clearing all Suſpition, It is thought fit, that the Ships Goods, and Men be<g ref="char:EOLhyphen"/>longing to the other Confederate, in their Paſſage and Voyages be accompanied with Letters of Paſſe-port, and Certificate: The Form whereof to be as followeth,</p>
+                  <p>CHARLES, <hi>the Second by the Grace of GOD, King of</hi> Great-Britain, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Chriſtian, <hi>the fourth by the Grace of GOD, King of</hi> Denmark <hi>and</hi> Norway, <hi>&amp;c.</hi>
+                  </p>
+                  <p>When therefore the Merchandiſe, Goods, Ships, or Men of either of the Confederates, or their Subjects, and Pople, ſhall meet in open Sea, Streights, Ports, Havens, Lands and Places whatſoever, the Ships of War whether publick or private, or the Men, Subjects, or People of the other Confederate; upon Exhibiting only the foreſaid Letters of Safe-Conduct and Certificate; there ſhall be nothing more required of them, nor ſhall ſearch be made after the Goods, Ships,
+<pb n="4" facs="tcp:174772:5"/> or Men; nor ſhall they be any otherwiſe whatſoever moleſted or troubled, but ſuffered with all Freedom to purſue their intended Voyage. But if this Solemn and ſet Form of Paſſe-port and Certificate be not Exhibited, Or that there be any other juſt and urgent cauſe of Suſpition, then ſhall the Ship be ſearched; which is nevertherleſs in this caſe only underſtood to be permitted, and not otherwiſe. If by either party any thing ſhall be committed, contrary to the true meaning of this Article, againſt either of the Confederates: Each of the ſaid Confederates ſhall cauſe his Subjects and People offending, to be ſeverely puniſhed, and full and entire Satisfaction to be forth with given, and without delay to the Party injured, and his Subjects and People for their whole loſſe and expenſes.</p>
+               </div>
+               <div type="section">
+                  <head>ARTICLE XXIV.</head>
+                  <p>BOth Parties ſhall cauſe Juſtice and Equity to be Adminiſtred to the Subjects and People of each other, according to the Laws and Statutes of either Countrey, ſpeedily and without long and unneceſſary Formalities of Law, and Expenſes, in all Cauſes and Controverſies, which are Depending, or which may hereafter ariſe.</p>
+               </div>
+               <div type="section">
+                  <head>ARTICLE XXXV.</head>
+                  <p>AND for the greater ſecurity of the Subjects of both Kings, and for preventing of all Violence towards them from the ſaid Ships of War, all Commanders of any of the Ships of War, be<g ref="char:EOLhyphen"/>longing to the King of <hi>Great-Britain,</hi> and all other His Subjects whatſoever, ſtall be ſtrictly char<g ref="char:EOLhyphen"/>ged, and required, that they do not moleſt or injure the Subjects of the King of <hi>Denmark.</hi> If they ſhall do otherwiſe, they ſhall be lyable to anſwer it in their perſons, and Eſtates; and ſhall therein ſtand bound, untill juſt Satisfaction and Compenſation ſhall be made for the wrongs by them done, and the Damage thereby ſuſtained, or to be ſuſtained. In like manner, ſhall all the Commanders of the Ships of War, belonging to the King of <hi>Denmark,</hi> &amp;c.</p>
+               </div>
+               <div type="section">
+                  <head>ARTICLE XXXVI.</head>
+                  <p>BOth Kings ſhall take Care, That Judgement and Sentence in things taken at Sea, be given ac<g ref="char:EOLhyphen"/>cording to the Rules of Juſtice and Equity, by perſons not ſuſpected, or intereſted, and be<g ref="char:EOLhyphen"/>ing once given by ſuch Judges as aforeſaid; they ſhall ſtrictly Charge, and Require their Officers, and whom it ſhall concern to ſee the fame put in due Execution, according to the Form and Tenor thereof.</p>
+               </div>
+               <div type="section">
+                  <head>ARTICLE XXXVII.</head>
+                  <p>IF the Ambaſſadors of either King, or any other publick Miniſters, reſiding with the other King, ſhall happen to make complaint of any ſuch Sentence: That King to whom complaint ſhall be made, ſhall cauſe the ſaid Judgement and Sentence to be Reheard and Examined in his Council; That it may appear whether all things requiſit and neceſſary, have been performed according to the Rules of this Treaty, and with due Caution. If the contrary ſhall happen, it ſhall be redreſſed, which is to be done at the furtheſt within three moneths time.</p>
+                  <p>Neither ſhall it be lawful either before the giving of the firſt Sentence, or afterwards, during the time of the Rehearing, to unload, or ſell, and make away the Goods in controverſie, unleſs it happen to be done by conſent of Parties, and to prevent the periſhing of the ſaid Goods and Merchandiſe.</p>
+               </div>
+            </div>
+            <div type="document">
+               <head>The Third Article of the Kings INSTRUCTIONS concerning Prizes, ſent down in <hi>June, 1673.</hi> which re<g ref="char:EOLhyphen"/>lates to Double and conceal'd Documents, ſo much inlisted on by the Capers in theſe Decreets.</head>
+               <p>THat where any Ship met withal by any of the King's Royal Navy, or other Ships, Commiſſi<g ref="char:EOLhyphen"/>onated by His Authority, ſhall fight or make reſiſtance, or the Maſter or any of the Compa<g ref="char:EOLhyphen"/>ny ſhall throw away, burn, tear, or conceall any of the Ships Papers, or Documents: or ſhall have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o papers at all found on board in the ſaid Ship, or ſhall bring or offer to the Court any falſe or double Writings, for Evidence; thereby to clear her, or her goods, or any of them; the ſaid Ship and goods ſhall be Adjudged and Condemned, as good and lawful Prize.</p>
+            </div>
+            <div type="letter">
+               <head>The King's Letter to the Lords, concerning the Ship, the <hi>Calmar,</hi> dated <hi>24th July, 1674.</hi> Relative to His INSTRUCTIONS.</head>
+               <p>WE have fully Conſidered your Letter To Us of the date the 25th. <hi>February,</hi> And do find that you have hitherto proceeded exactly in the Proceſs depending before you, Concer<g ref="char:EOLhyphen"/>ning the ſaid Ship and Goods, according to the <hi>Inſtructions</hi> formerly ſent unto you, which were intended by Us to prevent the Fraud of Our Enemies, or of ſuch as might drive a private way of Trading with them, to the prejudice of Our Service: And not to be a ſnare to Our Subjects, or the Subjects of any Prince in Alliance with Us, when the property of either Ship or goods, coming into any Port of Our Dominions, doth really appear to belong unto any of them, <hi>&amp;c.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="documents">
+            <pb n="5" facs="tcp:174772:5"/>
+            <head>Other Papers relating to the Ships, the <hi>Palm-tree</hi> and <hi>Patience</hi> of <hi>Sun<g ref="char:EOLhyphen"/>derburg,</hi> viz. The Paſſes, Toll-Schedules, Freight-Briefs, and Miſ<g ref="char:EOLhyphen"/>ſive Letters, aboard of the Ships when taken. Depoſitions of the Maſters and Mariners, after they were brought up. Commiſsons of the Lords of Seſsion for proving the Property, <hi>&amp;c.</hi> Reports thereof from the Ma<g ref="char:EOLhyphen"/>giſtrates of <hi>Sunderburg, Criſtiania</hi> and <hi>London;</hi> with an Atteſtation of the Admiralty of <hi>Amſterdam;</hi> His <hi>Majeſties</hi> Declaration in favour of the Danes; and the Proteſtations taken in behalf of the Strangers, againſt the Capers ſending the Ships to ſea, after the Lords had declared them free.</head>
+            <div type="part">
+               <head>Relating to the Ship the <hi>Palm-tree.</hi>
+               </head>
+               <div type="document">
+                  <head>
+                     <hi>Paſs from the Town of</hi> Sunderburg.</head>
+                  <p>AUguſtiſſimi ac Potentiſſimi Regis, <hi>Chriſtiani</hi> quinti, <hi>Daniae, Norwegiae, Vandalorum, Go<g ref="char:EOLhyphen"/>thorum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> Regis, Ducis <hi>Slesvici, Holſatiae, Stormaeriae</hi> &amp; <hi>Dithmarſiae,</hi> Comitis in <hi>Oldenburg</hi> &amp; <hi>Delmenhorſt;</hi> Nos conſtituti Conſules ac Senatores Civitatis <hi>Sonderburgi,</hi> univerſis &amp; ſingulis cujuſcunque dignitatis, ſtatus, conditioniſve fuerint, has Literas noſtras inſpecturis, ut cujuſvis ſtatus &amp; conditio poſtulat: notum facimus &amp; teſtamur. quòd harum praemonſtrator C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vis noſter dilectus, <hi>Chriſtianas Matthiae</hi> Nauta, officiosè nobis ſignificaverit, quà ratione cum preſenti ſua Navi hic apud nos ſtructa, &amp; <hi>Palmae</hi> nomine inſignita, illi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> adjunctis &amp; illatis mercibus, ad tractanda ſua negotia, &amp; honeſtam verſuram exercendam, divino favente numine, in marl Orien<g ref="char:EOLhyphen"/>tali &amp; Occidentali, pro re natâ &amp; occaſione datâ, hoc vere &amp; futura aeſtate durante, navigate con<g ref="char:EOLhyphen"/>ſtituit; offic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>è &amp; obnixè a nobis petendo, ut ſibi ad majorem ſui cautionem &amp; ſatisfactionem, patentes ſalvi-conductus literas impertiri haud gravaremur. Eſt ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad omnes &amp; ſingulos, tam ſummos quam alios rei bellicae Praefectos, imprimis Dominos conſtitutos claſſis Admirales, Vice-Admirales, Capitaneos, Claſſiarios, Legatos, Excubitores, &amp; reliquos Naviculariam facientes, hu<g ref="char:EOLhyphen"/>millima officioſa &amp; amica noſtra petitio, ut praememorato Nautae civi noſtro dilecto, cum Navi praeſenti, Naviculariis &amp; injectis Mercibus, pro negotiorum &amp; honeſtae mercaturae conditione, in mari Orientali &amp; Occidentali, per ſua Freta, Terras &amp; Territoria, ſi illa fortè inviſeret; aut (quod Deus prohibeat) per maris intumeſentiam &amp; tempeſtates, ad illa dejectus propelleretur; non tantum liberum, ſecurum, ac tutum, tam acceſſum quàm diſceſſum concedere: ſed etiam, in neceſſitatis caſu, illum omni &amp; promotionis &amp; ſubſidii genere proſequi dignentur. Id, ſereniſ<g ref="char:EOLhyphen"/>ſima Regia Majeſtas, Rex ac Dominus noſter clementiſſimus, clementiſſimè recordabitur; &amp; nos erga unumquemque pro cujuſvis ſtatus conditione ac requiſito, ut humiliſmè officioſe &amp; amicè recompenſemus, ſemper paratiſſimi erimus. Et in majorem rei certitudinem, has Literas con<g ref="char:EOLhyphen"/>ſueto Civitatis noſtrae Sigillo firmari juſſimus. Dabantur, die decimo quarto Menſis <hi>Martii,</hi> anno mileſimo ſexcenteſimo ſeptuageſimo ſecundo.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Jacob Jenſen.</hi>
+                           </item>
+                           <item>
+                              <hi>Hans Pehman.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                     <signed>Locus Sigilli.</signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <head>Toll-Schedule.</head>
+                  <p>In His Royal <hi>Majeſtie's Custom-office</hi> in <hi>Chriſtiania, Carsten Matſen</hi> from <hi>Sunderburg</hi> Skipper, payed Cuſtom for his Ship, being a Pinnace with two Tops, called, the <hi>Palm-Tree,</hi> of the big<g ref="char:EOLhyphen"/>neſs (according to the Metbrief dated in <hi>Dramm,</hi> 28. <hi>April</hi> 1671.) of 1537/8 Laſts; with which, upon the 14. of this inſtant he arrived here, being loaded with 12500. Dalls, and hath paid for each laſt 4½ <hi>Ricks-Orts,</hi> extending in the whole to 172. <hi>Ricks Dallers,</hi> 2. <hi>Marks,</hi> 18. <hi>Shillings:</hi> and paſſes free. Dated in <hi>Chriſtiania,</hi> in the Cuſtom-office, 22. <hi>Junii,</hi> 1672.</p>
+                  <closer>
+                     <signed>
+                        <hi>Locus Sigilli.</hi> Jurgen Seckman.</signed>
+                     <signed>Regiſtered <hi>Nicolas Fluggen.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <head>Freight-Brief.</head>
+                  <p>
+                     <hi>Anno,</hi> 1672. the 23. of <hi>June,</hi> are we underwritten, in name of the Holy Trin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, one with another, agreed in accord as followeth; to wit, That I <hi>Kirſten Hammers,</hi> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elict of <hi>Jens Paulſen,</hi> here at <hi>Chriſtiania;</hi> ſhall give to Skipper <hi>Carſten Matſen</hi> of Freight, of this his new pre<g ref="char:EOLhyphen"/>ſently imployed Ship, called the <hi>Palm-tree</hi> of <hi>Sunderburg,</hi> 230. <hi>lib.</hi> Sterling of Freight, after that
+<pb n="6" facs="tcp:174772:6"/> the Lord ſhall give a happy and ſafe arrival at <hi>London.</hi> And in caſe he <hi>unexpectedly ſhall be brought up againſt his will to</hi> Holland; then of Dollars 920. after good Delivery. And that in this man<g ref="char:EOLhyphen"/>ner, with Gods aſſiſtance, ſhall of me the Freighter <hi>Kirſten Hammers,</hi> and of me Skipper <hi>Carſten Matſen</hi> be acoompliſhed and kept skaithleſs. Wherefore, we each with another have ſubſcribed theſe few lines; whereof each of us hath received the Double. At <hi>Chriſtiania,</hi> day and date foreſaid, and promiſe to the Skipper of <hi>Caplaken,</hi> five pound <hi>Sterling.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Kirſten Hammers,</hi> Relict of <hi>Jens Paulſen.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <head>Miſsive Letter by the Freighter to <hi>John Shorter</hi> Merchant, ſince Sheriff of <hi>London.</hi>
+                  </head>
+                  <p>Much honoured and reſpected Friend, Signior <hi>John Shorter, Salutem.</hi> Your good Letter, the 21. <hi>May,</hi> with Skipper <hi>Carſten Matſen,</hi> is delivered into my hands: out of which, I perceive your good will towards my Husband <hi>Jens Paulſen</hi> of bleſſed memory. As concerning the agreement for Freight with the forenamed Skipper, to take in a Loading for you, I have with the help of good Friends, in the beſt manner and utmoſt diligence, done accordingly; as appeareth out of the in<g ref="char:EOLhyphen"/>cloſed Memorial. I ſuppoſe you will continue in your real integrity towards me, as I did find you always towards my Husband of happy memory: and beſides the Accompt of the foreſaid Me<g ref="char:EOLhyphen"/>morial, you will conſider the great perills at Sea, which I ſhall leave to your good diſcretion. And it is my humble requeſt, that you with the firſt would aſsiſt me with ſome Mony, either in <hi>Hamburg,</hi> or elſe here in the Countrey: becauſe there is ſmall occaſion to draw a Bill of Exchange, of Ricks Dollars, from hence upon <hi>London;</hi> and I cannot do it except with great loſs. And God knows how I ſtand in need of Mony for the preſent, to clear up my Husband, of happy memory, his Accompts, for his governing Office, notwithſtanding there is a great deal, in reſpect of my Husbands good-will, reſting unto me. Therefore, I took occaſion the 8. <hi>ditto,</hi> to draw a Bill of Exchange upon you, payable to <hi>Claus Hanſen.</hi> If the ſame shall be preſented unto you, I ex<g ref="char:EOLhyphen"/>pect your good payment, after that <hi>Hans Paulſen</hi> is well arrived. And if any occaſion may hap<g ref="char:EOLhyphen"/>pen, and I ſhould ſend a Bill of Exchange upon you, I hope you ſhall accept of, and pay it. Wherein otherwiſe I can ſerve you, it ſhall be done. And hereby wiſhing you well, I recom<g ref="char:EOLhyphen"/>mend you to the Lords protection, and remain,</p>
+                  <closer>
+                     <signed>Your obliged Servant, <hi>Kirſten Hammers,</hi> Relict to <hi>Jens Paulſen.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <head>Depoſitions of the Maſter, and one of the Mariners, before the <hi>Admirality.</hi>
+                  </head>
+                  <opener>
+                     <dateline>
+                        <hi>Edinburgh,</hi> 
+                        <date>13. <hi>July,</hi> 1672.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>COmpeared</hi> Carſten Matſen <hi>Maſter of the Ship, called the</hi> Palm, <hi>of the Age of</hi> 30. <hi>years unmarried; Who being ſolemnly ſworn and ex<g ref="char:EOLhyphen"/>amined, Depones,</hi> That he lives at <hi>Sunderburg,</hi> and that there are eleven Eaters in the Ship, be<g ref="char:EOLhyphen"/>ſide the Deponent. And that all of them live at <hi>Sunderburg,</hi> except one Man who lives three miles from it, and another in <hi>Norway.</hi> And <hi>depones,</hi> That he has been Maſter of the Ship theſe two years by-gone, ſince ſhe was built at <hi>Sunberburg,</hi> and that the Deponent and <hi>Hanſe Jebſen</hi> in <hi>Sunderburg</hi> are ſole Owners of the ſaid Ship. And that the ſaid Ship is 153. Laſt. And that the ſaid Ship was loaded at <hi>Christiania</hi> in <hi>Norway,</hi> with 12500. Daills, by the Widow of <hi>Jens Paulſen</hi> in <hi>Christiania. And depones,</hi> That he was going to <hi>London</hi> with the ſaid Loading, And that he has no <hi>Charter-party,</hi> but a Miſſive-letter, direct to <hi>John Shorter</hi> Merchant in <hi>London,</hi> from the ſaid Widow. And that M. <hi>Shorter</hi> is to pay the Deponent 230. <hi>lib. sterling</hi> of Freight, beſides the <hi>Caplaken</hi> which is 5. <hi>lib. And depones,</hi> That no part of the Ship or Loading belongs to any <hi>Hollander.</hi> And that there is in the Ship three great Anchors, and a Warp-Anchor, three great Cables, two Haaſſers and a Pertling: all Maſts clad, and Blocks full. <hi>And depones,</hi> That about ſix weeks ago, he was at <hi>London</hi> with Daills in this ſame Ship, in the immediat preceeding voyage, which were conſigned to Mr. <hi>Shorter.</hi> And all this is of truth, as he ſhall anſwer to GOD. <hi>And depones,</hi> He was taken by Captain <hi>Acheſon</hi> upon the 2. of <hi>July</hi> inſtant.</p>
+                  <closer>
+                     <signed>Carſten Matzen.</signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <p>Eodem die, <hi>Compeared</hi> Michael Chriſtinſen, <hi>one of the Mariners of the ſaid Ship, of the Age of</hi> 36. <hi>years, Married, and lives at</hi> Sunderburg: <hi>who being ſolemnly ſworn and examined; Depones,</hi> That he was hired at <hi>Sunderburg,</hi> to go to <hi>London</hi> the former Voyage, which accordingly he performed: and was hired in this Voyage, to go to <hi>London</hi> alſo. And as to the reſidence of the Maſter and Mariners, <hi>depones</hi> conform to the Maſter. <hi>And depones,</hi> That he knows not the Owners of Ship or Loading, And that he ſaw not any Papers <hi>hid, deſtroyed,</hi> or <hi>caſt overboard.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>M. C. <hi>C. Bickerſtaff.</hi>
+                           </item>
+                           <item> M. <hi>Jo. Stuart.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <pb n="7" facs="tcp:174772:6"/>
+                  <head>Commiſſion of the Lords, conform to their <hi>Interlocutor</hi> 22. <hi>Februarii</hi> 1673.</head>
+                  <p>
+                     <hi>IN actione</hi> reſciſſoria <hi>intentata coram Senatu Regni</hi> Scotiae, <hi>ad inſtantiam</hi> Chriſtiani Matthiae, <hi>navarchi &amp; alterius ex exerciteribus navis</hi> Danicae, <hi>cui nomen</hi> Palmae Sunderburgenſi, <hi>tam proſe quam pro altero exercitore ejuſdem navis, ac</hi> Chriſtiana Hammers <hi>domina mercium quibus onera<g ref="char:EOLhyphen"/>ta fui<g ref="char:cmbAbbrStroke">̄</g>t, agentis;</hi> adverſus Alexandrum Acheſon <hi>praefectum navi bellicae</hi> Bruſſia <hi>dictae, ejuſque navis exercitores, alioſque quorum intereſt; ad</hi> reſcindendam <hi>ſententiam quandam, à</hi> Suprema cu<g ref="char:EOLhyphen"/>ria Admiralitatis <hi>latam, qua dicta novis</hi> Palma Sunderburgenſis <hi>cum mercibus damnata eſt; adque</hi> reſtitutionem <hi>ejuſdem navis, ac mercium, actoribus, cum omni cauſa faciendam, vel pre<g ref="char:EOLhyphen"/>tium eiſdem ſolvendum, atque damnum reſarciendum. Partibus de tota re controverſa in judicium</hi> vocatis <hi>&amp;</hi> auditis, <hi>ſuperque ſcriptis ab utriiſque exhibitis,</hi> deliberato; <hi>VISUM EST SENATUI,</hi> Ex eó quod navis de qua queritur, literis trajectitiis juxta formulam foederis inter ſereniſſi<g ref="char:EOLhyphen"/>mum Regem noſtrum, ac Regem <hi>Daniae</hi> initi, non eſſet inſtructa, etſi primo <hi>Julio,</hi> ſuperioris anni, ex <hi>Norvegia</hi> (poſtquam jam diu belium inter ſereniſsimum Regem noſtrum, &amp; Ordines uniti Belgii vulgo innotuerat) ſolverit; non quidem, per ſe, induci confiſcationem navis aut mercivum; ſed illud tamen, navi capiendae, atque huc adducendae, ut in eam inquireretur; juſtam prebuiſſe cauſam. Adeoque &amp; onus probationis, per documenta &amp; teſtes, omni excep<g ref="char:EOLhyphen"/>tione majores, actoribus imponere; navem atque merces ad confaederatos, &amp; non ad hoſtes pertinere: nec ad hoc probandum (alioquin ſufficiens, ſi dum literae trajectitiae impretra<g ref="char:EOLhyphen"/>rentur adhibitum fuiſſet) jusjurandum navarchi, aut exercitorum, nunc ſufficere. Praeterea cum literae iſtae, quibus navis inſtructa fuit, ſcriptae ſint in genere, &amp; ante bellum, nec de iti<g ref="char:EOLhyphen"/>nere, in quo navis deprehendebatur, mentionem ullam ſpeciatim faciant; cumque conſtet, ex jurejurando navarchi, inſtrumentum locationis conductionis, quod penes ſe habuerat, ab eo, dum caperetur, celatum fuiſſe; Viſa ſatis haec, ad inducendam probationem praeſumptivam ſimulatio<g ref="char:EOLhyphen"/>nis cujuſdam, navemque ac bona non eſſe libera: ſed quae contrariam nihilomninus poſitivam probationem admittat, qua per documenta ac teſtes, exceptione omni majores, probetur; n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vem atque merces ad ſubditos Regis <hi>Daniae,</hi> ſereniſsimi Regis noſtri confaederati, pertinere: niſi eadem, à reis, probentur pertinere ad Regis noſtri hoſtes. Cumque inſuper, ex dicto locatio<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> conductionis inſtrumento patet, verum portum, ad quem hoc itinere navis conducebatur, aut celatum fuiſſe, aut conductricis locatoriſve arbitrio relictum; vel hoc ſolum ſuffici re, viſum, ad confiſcationem &amp; navis &amp; mercium, etiamſi alio<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> libera eſſe probentur: dummodo rei do<g ref="char:EOLhyphen"/>cere queant tabulas abiegnas, cujuſmodi illae fuere quibus navis onerebatur, ejus generis mer<g ref="char:EOLhyphen"/>cium eſſe, ſecundum conſuetudinem <hi>Admiralitatis,</hi> vel <hi>Anglicae</hi> vel <hi>Belgicae,</hi> quas vulgo <hi>contra<g ref="char:EOLhyphen"/>banda</hi> vocant: cujus tamen rei, contraria probatio actoribus permittitur. Conceſſum praeterea actoribus, uti documentis ac teſtimoniis idoneis, probent, quanti navis cum caperetur, pretii fuerit: quot &amp; quales tabulae fuerint, quibus erat onuſta; &amp; quanti eas vendituri fuiſſent, fi ad portum, quo revera navis, preſenti itinere, deſtinabatur, appluiſſent. <hi>Vt autem rite ea qua in alteruiram partem probari convenit, probari poſſint; SENATUS Praeſides, Conſules, &amp; Senatus Civitatum</hi> Sunderburgenſis <hi>&amp;</hi> Chriſtianienſis, <hi>praeſectumque civitati</hi> Londinenſi, <hi>obnixe rogat; uti teſtes, ad<g ref="char:EOLhyphen"/>hibita jurisjurandi religione, de iis quae ſupra dicta ſunt, examinent, illorumque dicta, ſcripto ex<g ref="char:EOLhyphen"/>cepta, ab ipſis nominibus ſuis (ſi ſcribere norint) &amp; ab actuariis ſeu ſcribis civitatum, ſubſcribi curent, atque unà cum hoc praeſenti ſcripto obſignata, actoribus, vel eorum mandatariis ante diem pri<g ref="char:EOLhyphen"/>mum menſis</hi> Junii, <hi>proximè futuri, huc referenda tradant. Actum in Senatu,</hi> Edinburgi <hi>ad diem vigeſimum ſecundum menſis</hi> Februarii, <hi>anno Chriſtiano, milleſimo ſexcenteſimo ſeptuageſimo tertio, ſub Sigillo nostrae Curiae, &amp; ex Chirographo Magiſtri</hi> Alexandri Gibſon <hi>Scribae Curiae, Depu<g ref="char:EOLhyphen"/>tati Domini</hi> Archibaldi Primroſe <hi>de</hi> Carintoun, <hi>Militis Baronetae, Clerici Regiſtri, Parliamenti, ac Conſilii ſupremi Domini noſtri Regis.</hi>
+                  </p>
+                  <closer>
+                     <signed>Al. Gibſon.</signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <head>Report of the Magiſtrates of <hi>Sunderburg.</hi>
+                  </head>
+                  <div type="section">
+                     <p>
+                        <hi>Nos Conſules ac Senatores Civitatis</hi> Sunderburgenſis, <hi>notum teſtatum<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> facimus, oblatum nobis fuiſ<g ref="char:EOLhyphen"/>ſe</hi> Reſcriptum <hi>quoddam Senatus Regni</hi> Scotiae, <hi>datum die viceſimo ſecundo menſis</hi> Februarij <hi>proximè praeteriti, quo rogati ſumus, ut teſtes, de capitibus quibuſdam controverſis, in actione inter</hi> Chriſtianum Matthiae <hi>navarchum navis</hi> Palmae Sunderburgenſis, <hi>&amp;</hi> Alexandrum Acheſon, <hi>praefectum navi bel<g ref="char:EOLhyphen"/>licae,</hi> Bruſsia <hi>dictae, coram eodem Senatu pendente; examinaremus: prout dicto</hi> Reſcripto <hi>fuſe continetur. Qua in re, ne officio noſtro deeſſemus, ad inſtantiam actoris, teſtes infra ſcriptos, in judicium vocari cu<g ref="char:EOLhyphen"/>ravimus: ninirum</hi> Matthiam Pauli Plaet, Erneſtum Uthermohlen, Thomam Thomſen, Johan<g ref="char:EOLhyphen"/>nem Dahler, Roticherum Kruſs, &amp; Jacobum Jenſen Becker, <hi>cives hujus civitatis, viroſque fide dignos, atque omni exceptione majores; qui comparentes, ſingulique interrogati, juramento corporali ab ipſis praestito, affirmavere &amp; declaravere,</hi> dictam navem in hac civitate fabricatam, ad praenomina<g ref="char:EOLhyphen"/>tum <hi>Chriſtianum Matthiae,</hi> &amp; <hi>Johannem Jebſen,</hi> eoſque ſolos, nunc pertinere, atque eo tempore
+<pb n="8" facs="tcp:174772:7"/> quo capta eſt, &amp; in Scotiam abducta, pertinuiſſe: eodemque tempore ad quinque mille nummos imperiales, aeſtimari potuiſſe: eoſdemque ſubditos eſſe Sereniſsimi Regis <hi>Daniae</hi> &amp; <hi>Norwegiae. Cauſam ſcientiae itidem ſub juramento reddentes,</hi> quòd noverint illos cives, indigenas, atque incolas eſſe hujus civitatis, navemque in eorum &amp; non aliorum uſum fuiſſe fabricatam, ipſoſque ab eo tempore ean<g ref="char:EOLhyphen"/>dem ſolos inſtruxiſſe, atque abromnibus, ſolos ejuſdem Dominos habitos ac reputatos fuiſſe, &amp; ad<g ref="char:EOLhyphen"/>huc eſſe: tantique quum <hi>Chriſtianiâ Londinum</hi> verſùs, menſe <hi>Junio</hi> ſuperioris anni, iter ſuſciperet; ab illis vendi potuiſſe. <hi>Quorum in fidem nomina ſua ſubſcripſere atque figilla conſueta appoſuere.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>Matys Paulſen Plat.</item>
+                              <item>Ernſt Uther mohlen.</item>
+                              <item>Thomas Thomenſen.</item>
+                              <item>Jens Dahler.</item>
+                              <item>Rotger Kruſs.</item>
+                              <item>Jacob Jenſen Becker.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>
+                        <hi>Comparuere &amp; ipſi</hi> Chriſtianus Matthiae <hi>&amp;</hi> Johannes Jebſen, <hi>Cives noſtri, nobiſque optimè noti qui itidem, juramento corporali praeſtito affirmavere ac declaravere;</hi> dictam navem hîc ſuis, non ali<g ref="char:EOLhyphen"/>enis ſumptibus, fuiſſe fabricatam; ad ſeque ſolos, ex quo aedificata fuit, ſemper pertinuiſſe, &amp; ad<g ref="char:EOLhyphen"/>huc pertinere: eamque eo itinere in quo capta fuit, <hi>Chriſtianae Hammers</hi> civi ac incolae civitatis <hi>Chriſtianenſis</hi> in <hi>Norvegia,</hi> tabularum abiegnarum, quibus ab ipſa onerabatur, <hi>Londinum</hi> devehen<g ref="char:EOLhyphen"/>darum gratia, locatam fuiſſe: atque eo tempore a ſe vendi potuiſſe pretio, quinque millium num<g ref="char:EOLhyphen"/>mum imperialium. Onus autem totum, praeter tabulas ſeptingentas ad <hi>Navarchum</hi> &amp; <hi>Nautas</hi> perti<g ref="char:EOLhyphen"/>nentes, ad eandem <hi>Chriſtianam Hammers</hi> pertinuiſſe.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>Carſten Matzen.</item>
+                              <item>Jens Jebſen.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>Quae omnia ita in hac Curia in pleno Senatu, uti ſupra ſcripta ſunt, peracta eſſe, publico hoc in<g ref="char:EOLhyphen"/>ſtrumento atteſtamur. <hi>Sunderburgi,</hi> die quarto Menſis <hi>Julii,</hi> anno milleſimo ſexenteſimo ſeptuageſimo etrtio.</p>
+                     <closer>
+                        <signed>
+                           <hi>Ad mandatum Senatus ſubſcripſi,</hi> Chriſtianus Arent Fiſcher, <hi>Jud. Secret. Juratus.</hi>
+                        </signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="document">
+                  <head>Report of the Magiſtrates of <hi>Chriſtiania.</hi>
+                  </head>
+                  <div type="section">
+                     <p>
+                        <hi>PRaeſes, Conſul, ac Senatores Civitatis</hi> Chriſtianienſis, <hi>notum teſtatumque facimus, oblatum nobis fuiſſe</hi> Reſcriptum <hi>quoddam Senatus Regni</hi> Scotiae, <hi>datum viceſimo ſecundo Menſis</hi> Februarii, <hi>proximè praeteriti, quo rogati ſumus ut teſtes de capitibus quibuſdam controverſis, in Actione inter</hi> Chriſtianum Matthiae <hi>Navarchum navis</hi> Palmae Sunderburgenſis, <hi>&amp;</hi> Alexandrum Acheſon <hi>Prae<g ref="char:EOLhyphen"/>fectum navi bellicae</hi> Bruſſia <hi>dictae, coram eodem Senatu pendente, examinaremus; prout dicto Reſcripto fuſe continetur. Quae in re, ne officio noſtro deeſſemus, ad inſtantiam actoris, teſtes infra ſcriptos in Ju<g ref="char:EOLhyphen"/>ducium vocari curavimus, nimirum</hi> Claudium Joachimi Schumacherum, Petrum Nicolai <hi>ſeniorem &amp;</hi> Bartholum Eliae <hi>Cives hujus urbis, viroſque fide dignos, atque omni exceptione majores. Qui com<g ref="char:EOLhyphen"/>parentes, ſingulique interrogati, juramento Corporali, ab ipſis prestito, affirma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>re &amp; declarav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> Dictam Navem a <hi>Chriſtina Hammer</hi> hinc <hi>Londinum,</hi> in <hi>Anglia,</hi> verſus, conductam fuiſſe; menſeque <hi>Junio,</hi> ſuperioris anni, fuiſſe oneratam tabulis abiegnis &amp; pineis integris, undecies mille octin<g ref="char:EOLhyphen"/>gentis viginti octo, dimidiatis verò ſexcentis ſexaginta ſex, longitudinis a novem vel decem, ad duodecem pedum, latitudinis vero pedis circiter unius; quae omnes pertinuere ad eandem <hi>Chri<g ref="char:EOLhyphen"/>ſtinam,</hi> preter ſeptingentas quae pertinebant ad Navarchum ipſum, atque nautas; dictamque <hi>Chriſtinam Hammer</hi> Civem, atque incolam eſſe hujus urbis, proindeque ſereniſſimi Regis <hi>Da<g ref="char:EOLhyphen"/>niae</hi> &amp; <hi>Norwegiae,</hi> ſubditam. <hi>Cauſam reddentes ſcientiae:</hi> Quòd praeſentes eſſent dum inter dictam <hi>Chriſtinam,</hi> atque navarchum de locatione conductionèque navis ageretur. Item, quód ſcirent tabu<g ref="char:EOLhyphen"/>las ab ea ad Navem onerandam comparatas fuiſſe, &amp; viderint eas illius nomine Navi imponi: quòdque eandem <hi>Christinam</hi> atque maritum ejus, paulò antequam navis conduceretur, fatis defunctum (&amp; qui hinc à longo tempore ejuſmodi merces <hi>Londinum</hi> mittere, tam ſuo quam me<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>torum <hi>Londi <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>enſium</hi> nomine, erat folitu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>) optimè noverint. Exiſtimare autem ſe, navenm ad <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> nomi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>um <hi>Chriſtianum Matthiae</hi> navarchum, &amp; <hi>Ioannem Jebſen</hi> mercatorem, Cives <hi>Sun<g ref="char:EOLhyphen"/>derburgenſes,</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, pertinere; ac ſemper ex quo aedificata eſſet, pertinuiſſe: quod ean<g ref="char:EOLhyphen"/>dem ab illis ſolis exerceri, ejuſdemque ipſos Dominos habitos ac reputatos eſſe, ſcirent: <hi>Inque fidem horum omnium quae à ſe juratis dicta ſunt, nomina ſuae ac figilla appoſuere.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>Peder Nielſen. <hi>elder.</hi>
+                              </item>
+                              <item>Claes Jo. Schumacher.</item>
+                              <item>Berthel Helleſen.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <pb n="9" facs="tcp:174772:7"/>
+                     <p>
+                        <hi>Comparuit &amp; dicta</hi> Chriſtina Hammer, <hi>civis noſtra, nobiſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> optimè nota, quae ipſa quo<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> juramen<g ref="char:EOLhyphen"/>to corporali praeſtito, affirmavit &amp; declaravit,</hi> ſupradictam navem <hi>Palmam Sunderburgenſem,</hi> menſe <hi>Junio</hi> anni ſuperioris, a <hi>Chriſtiano Mathiae</hi> navarcho, oneris tabularum abiegnarum &amp; pinearum, <hi>Londinum</hi> devehendi gratiâ, ſe conduxiſſe; eandem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ejuſmodi tabulis numero <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<g ref="char:EOLhyphen"/>decies mille octingentarum vinginti octo integrarum, ſexcentarumque vero ſexaginta octo di<g ref="char:EOLhyphen"/>midiatarum, longitudinis a novem vel decem ad duodecim pedum, uniuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> vero circiter pedis latitudinis, oneraſie: quae omnes, praeter ſeptingentas quae ad navarchum nautaſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſpectabant, ad <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e propriê pertinuere. Optim è autem ſibi navarchum notum eſſe, ceu cujus operâ aliquoties vir ejus, dum viveret, uſus fuerit; eundem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> navarchum, &amp; <hi>Ioannem Iebſen</hi> cives <hi>Sunder burgenſes,</hi> credere ſe dictae navis Dominos ſolos eſſe, quòd ab illis ſolis ſciret aliquandiu exerceri, ipſoſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> illius exercitores, ſemper habitos ac reputatos fuiſſe. Quorum in fidem nomen ac ſigillum ſuum hic appoſuit.</p>
+                     <closer>
+                        <signed>
+                           <hi>Kirſten Hammer,</hi> Relict of <hi>Jens Paulſen.</hi>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>
+                        <hi>Quae omnia ita in Senatu nostro, uti ſupra ſcripta ſunt, peracta eſſe, publico hoc inſtrumento, Ci<g ref="char:EOLhyphen"/>vitatis noſtrae Sigillo munito, attestamur.</hi> Chriſtianiae, <hi>dit</hi> 12. Auguſti, <hi>anno milleſimo ſexcenteſimo ſeptuageſimo tertio.</hi>
+                     </p>
+                     <closer>
+                        <signed>Locus Sigilli.</signed>
+                        <signed>Chriſtianus Roſingius, <hi>Notar. Chriſt.</hi> 
+                        </signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="document">
+                  <head>Report from the Lord Major and Aldermen of <hi>London.</hi>
+                  </head>
+                  <div type="section">
+                     <p>
+                        <hi>TO ALL that ſhall ſee theſe preſents, or hear them to be read; and ſpecially to the Lords of Council and Seſsion in</hi> Scotland, <hi>Sir</hi> ROBERT HANSON <hi>Knight, Lord Major, and the Aldermen or Senators of the City of</hi> London, <hi>ſend Greeting. Know ye, that on the day of the Date hereof, by virtue of the Commiſſion annexed, there appeared, and perſonally came into the Kings</hi> Majeſtie's <hi>Court holden before us, in the Chamber of the</hi> Guildhall <hi>of the ſaid City, the ſeveral Deponents hereafter named, being Perſons well known, and worthy of good faith and credit; who, in anſwer to the ſeveral Queries and Allegations in the ſaid Commiſſion contained, did by their ſolemn Oath, which they ſeverally took upon the holy Evangeliſts of Almighty God, before us, then and there ſolemnly declare, teſtifie and depoſe for certain and undoubted truth, in manner and form as in their ſeveral Depoſitions underwritten, is at large contained,</hi> viz.</p>
+                     <p>John Shorter <hi>of</hi> London <hi>Merchant, aged fourty eight years or thereabouts, ſworn and examined by virtue of the ſaid Commiſsion, depoſeth and ſaith upon his corporal oath,</hi> That he knoweth <hi>Carſten Matſen,</hi> Maſter of the Ship <hi>Palm-tree;</hi> and that he, this Deponent, believeth him to be one of the Owners of the ſaid Ship, and <hi>Hans Jebſen</hi> to be the other, but the ſaid <hi>Hans Jebſen</hi> the chiefeſt. And this Deponent, <hi>for reaſon of his knowledge and belief hereof, ſaith,</hi> that he hath formerly imployed the ſaid <hi>Carſten Matſen,</hi> when that he was Maſter of the Ship <hi>White Lillie,</hi> and hath continually imployed him the ſaid <hi>Matſen,</hi> to bring Goods for him from <hi>Norway</hi> in the ſaid Ship <hi>Palm-tree,</hi> from the very firſt Voyage ſhe made after her being built, until the laſt Voyage before her being taken and carryed into <hi>Scotland;</hi> and that he this Deponent, hath formerly received Advice by writing from the ſaid <hi>Jebſen,</hi> importing his concern and propriety in and to the ſaid Ship <hi>Palm-tree. And this Deponent alſo ſaith,</hi> that he verily believeth, that at the time of the Capture of the ſaid Ship <hi>Palm-tree,</hi> ſhe was deſigned, and coming with her Loading of Daills to this Port of <hi>London;</hi> and that her ſaid Loading did, and doth properly and ſolely be<g ref="char:EOLhyphen"/>long unto the Widow <hi>Chriſtina Hammers</hi> of <hi>Chriſtiania. And this Deponent, for reaſon of his be<g ref="char:EOLhyphen"/>lief hereof, ſaith,</hi> that in <hi>May,</hi> 1672. this Deponent did write unto <hi>Jens Paulſen,</hi> the Husband of the ſaid <hi>Chriſtina,</hi> who was then living, that he ſhould endeavour the loading of the ſaid Ship <hi>Palm-tree</hi> with Daills, in order to her coming again to this Port of <hi>London;</hi> and the ſaid <hi>Paulſen</hi> being dead before that Advice could come to his hand, his Widow the ſaid <hi>Chriſtina</hi> did accor<g ref="char:EOLhyphen"/>dingly take care, and loaded the ſaid Ship <hi>Palm-tree</hi> with Daills, according to the ſaid Order and Advice of this Deponent; and conſigned the ſaid Loading of Daills unto him this Deponent, to this Port of <hi>London,</hi> to be here ſold and diſpoſed of for her Accompt, except what was the Ma<g ref="char:EOLhyphen"/>ſters and Ships Companies; as by the Letters of Advice, received by this Deponent from the ſaid <hi>Chriſtina Hammers,</hi> and one <hi>Jens Jenſen</hi> of <hi>Chriſtiania,</hi> the Correſpondent of this Depo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ent, may appear. And this Deponent verily believeth, and hath alwayes ſo underſtood for ſeveral years paſt, that the ſaid <hi>Carſten Matſen, Hans Jebſen,</hi> and <hi>Chriſtina Hammers,</hi> are Subjects of the King of <hi>Denmark,</hi> and of no other Prince or Nation whatſoever. <hi>And this Deponent further ſaith,</hi> that he verily believeth that the ſaid Loading of Daills, had they arrived and come to this Port of <hi>London,</hi> when the ſaid Ship was ſurpriſed and taken, they might have been here ſold for at leaſt <hi>five pounds</hi> the <hi>Hundred;</hi> for that this Deponent did then ſell the very ſame Perſons Goods which came hither in the ſaid Ship <hi>Palm-tree</hi> (the laſt Voyage before her being taken) for above <hi>five pounds ten ſhillings</hi> a <hi>Hundred,</hi> and for near <hi>ſix pounds</hi> a <hi>Hundred,</hi> it being then the price current, this Deponent ſold ſuch Daills for at this Port of <hi>London. And moreover, this Deponent ſaith,</hi> that he never knew or underſtood, that <hi>Norway</hi> Firre-daill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> were ever accounted, by the Cuſtom of the Court of Admiralty in <hi>England, counterband Goods,</hi> or that they are ſo adjudged during this War.</p>
+                     <closer>
+                        <signed>John Shorter.</signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <pb n="10" facs="tcp:174772:8"/>
+                     <p>Peter Splidt <hi>of</hi> London <hi>Merchant, aged fourty nine years or thereabouts, ſworn and examined by virtue of the ſaid Commiſſion, depoſeth and ſaith upon his corporal Oath,</hi> That he well knoweth <hi>Carſten Matſen</hi> Maſter of the Ship <hi>Palm-tree</hi> of <hi>Sunderburg,</hi> and that the ſaid <hi>Carſten Matſen</hi> and <hi>Hans Jebſen</hi> are Owners of the ſaid Ship <hi>Palm-tree. And for reaſon of his knowledge of the ſame, this Deponent ſaith,</hi> That he hath known all the Freights that the ſaid Ship <hi>Palm-tree</hi> and <hi>White Lillie</hi> hath brought to this Port of <hi>London,</hi> for ſeveral years now paſt, and hath received the Moneys due for the ſame Freights here in <hi>London,</hi> by the order of the ſaid Owners, and for their Accompt, and afterwards remitted the ſame to them by Bills of Exchange, for their own proper uſe. <hi>And this Deponent alſo very will knoweth,</hi> that the ſaid Ship <hi>Palm-tree</hi> was loaded at <hi>Chri<g ref="char:EOLhyphen"/>ſtiania</hi> with Daills, and bound for this Port of <hi>London,</hi> when that ſhe was taken and brought into <hi>Scotland</hi> in <hi>July</hi> laſt; and that the ſaid Ships Loading was conſigned to Mr. <hi>John Shorter</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Merchant, to be ſold at this Port of <hi>London</hi> for the proper Accompt of <hi>Chriſtina Hammers</hi> of <hi>Chriſtiania</hi> (except what was the Maſters, and Ships Companie's) for that this Deponent both before and ſince the ſaid Ship's Capture, had ſeveral Letters writ and ſent to him from the ſaid <hi>Chriſtina Hammers,</hi> ſignifying, that the ſaid Ship and her Loading of Daills were intended and conſigned as aforeſaid. <hi>And this Deponent knoweth,</hi> that the ſaid <hi>Carſten Matſen, Hans Jebſen,</hi> and <hi>Chriſtina Hammers,</hi> are Subjects of the King of <hi>Denmark,</hi> and of no other Prince or Nation whatſoever. <hi>And this Deponent further ſaith</hi> that the ſaid Ship's Loading of Daills would have been worth, and ſold for here at this Port of <hi>London</hi> (had they been brought hither when that ſhe was ſurpriſed and taken) the ſeveral prices following, <hi>viz.</hi> The <hi>eleven</hi> and <hi>twelve foot</hi> Daills for <hi>ſix pounds</hi> the <hi>Hundred;</hi> and the <hi>nine</hi> and <hi>ten foot</hi> Daills for <hi>five pounds</hi> a <hi>Hundred:</hi> and that he this Deponent, then ſold ſuch Daills for the ſaid Prices (that were of the ſame Par<g ref="char:EOLhyphen"/>cel, as thoſe were of laden in the ſaid Ship <hi>Palm-tree,</hi> when ſhe was taken) which came con<g ref="char:EOLhyphen"/>ſigned to this Deponent to this Port of <hi>London,</hi> in <hi>June,</hi> 1672. in the Ship St. <hi>Peter</hi> of <hi>Sunder<g ref="char:EOLhyphen"/>burg, John Matſen</hi> Maſter, laden at <hi>Chriſtiania</hi> aforeſaid, by <hi>Jens Paulſen</hi> deceaſsed (late Husband of the ſaid <hi>Chriſtina Hammers</hi>) and <hi>Jens Jenſen,</hi> of <hi>Chriſtiania</hi> aforeſaid, Merchant. <hi>And this Deponent moreover ſaith,</hi> that he never knew or heard, that by the Cuſtom of the Court of Ad<g ref="char:EOLhyphen"/>miralty in <hi>England, Norway</hi> Daills were ever accounted <hi>counterband Goods,</hi> or that they are ad<g ref="char:EOLhyphen"/>judged ſo during this preſent War.</p>
+                     <closer>
+                        <signed>Peter Splidt.</signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>Hans Paulſen, <hi>Maſter of the Ship called</hi> the Flying Hart <hi>of</hi> Sunderburg, <hi>aged twenty four years of thereabouts, and</hi> Peter Jebſen, <hi>Maſter of the Ship called the</hi> St. Peter <hi>of</hi> Sunderburg, <hi>aged twenty two years or thereabouts, both Inhabitants of</hi> Sunderburg <hi>aforeſaid, and Subjects of the King of</hi> Den<g ref="char:EOLhyphen"/>mark, <hi>but at preſent in this City of</hi> London; <hi>ſworn and examined by virtue of the ſaid Commiſsion, depoſe and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ay, upon their corporal Oaths, jointly as followeth,</hi> viz. That they very well know <hi>Car<g ref="char:EOLhyphen"/>sten Matſen,</hi> Maſter of the Ship <hi>Palm-tree</hi> of <hi>Sunderburg,</hi> in the ſaid Commiſſion named, and that the ſaid Ship belongeth and appertaineth to <hi>Hans Jebſen</hi> and the ſaid <hi>Cars<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>en Matſen,</hi> who are both Subjects of the ſaid King of <hi>Denmark. And theſe Deponents ſay,</hi> that in <hi>July</hi> laſt paſt, in the Voyage in which the ſaid Ship was taken and brought into <hi>Scotland,</hi> ſhe was deſigned and intended with her Loading of Daills for the Port of <hi>London,</hi> and to no other Port whatſoever. <hi>And theſe Deponents do certainly know, and ſolemnly affirm,</hi> that the Loading of the ſaid Ship when ſhe was firſt taken, did and doth properly and ſolely belong and appertain unto <hi>Christina Hammers,</hi> in the ſaid Commiſſion named, who is a Subject alſo of the ſaid King of <hi>Denmark. And theſe Deponents alſo well know,</hi> that the ſaid Ship <hi>Palm-tree</hi> was built at <hi>Sunderburg</hi> aforeſaid, for that they ſaw the ſaid Ship there upon the Stocks, when ſhe was building. <hi>And</hi> that they, <hi>theſe Depp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ents,</hi> were at <hi>Chriſtiania</hi> in <hi>Norway,</hi> where the ſaid Ship was loaden: and did there<g ref="char:EOLhyphen"/>fore know, that the ſaid Loading of the ſaid Ship belonged to the ſaid <hi>Chriſtina Hammers,</hi> and that the ſame was deſigned only for the Port of <hi>London</hi> as aforeſaid.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Hans Paulſen.</hi>
+                              </item>
+                              <item>
+                                 <hi>Peder Jebſen.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>Charles Moore, <hi>Notary publick, and Deputy-Regiſter of the High Court of Admiralty of</hi> England, <hi>aged fourty three years or thereabouts, and</hi> John Hough <hi>Notary publick, one of the Clerks of the ſaid Court, aged twenty eight years or thereabouts; ſworn and examined by virtue of the ſaid Commiſsion, depoſe and ſay, upon their corporal Oaths,</hi> That by the Cuſtom of the Court of Admiralty of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Firre Daills are not nor never were ſince their remembrance, accounted <hi>counterband Goods. Givi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> for reaſon of their knowledge, for that</hi> he the ſaid <hi>Charles Moore</hi> hath belonged to the ſaid Court, as a Clerk and Deputy Regiſter, for the ſpace of twenty years, and he the ſaid <hi>John Hough</hi> for the ſp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> of ſeven years; and are acquainted, and do very well know, that during the time of the laſt War, and this preſent War, ſeveral Ships loaden with Firre Daills (after it was made to appear in the ſaid Court they belonged to Friends and Allies) have been reſtored to the Owners; and more particularly, the Ship called the <hi>Dram of Norway,</hi> the <hi>Chriſtianus quintus,</hi> the <hi>Salva<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>r,</hi> and ſeveral others.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Charles Moore.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Hough.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <pb n="11" facs="tcp:174772:8"/>
+                     <p>
+                        <hi>IN FAITH and teſtimony whereof, we the ſaid Lord Major and Aldermen of the ſaid City of</hi> London, <hi>the Seal of the Office of Majorality of the ſame City, to theſe Preſents by us ſigned, have cauſed to be put and affixed, and the ſame to be ſigned by our Town Clerk; Dated in</hi> London, <hi>the</hi> 22. <hi>day of</hi> July, <hi>anno Dom.</hi> 1673. <hi>and in the five and twentieth year of the reign of our Soveraign Lord King</hi> Charles <hi>the ſecond, by the Grace of GOD, of</hi> England, Scotland, France <hi>and</hi> Ireland <hi>King, Defender of the Faith,</hi> &amp;c.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>Robert Hanſon, <hi>Major.</hi>
+                              </item>
+                              <item>Wagſtaff.</item>
+                              <item>Thomas Bludworth.</item>
+                              <item>William Turner.</item>
+                              <item>John Moore.</item>
+                              <item>John Frederick.</item>
+                              <item>Richard Ford.</item>
+                              <item>William Prichard.</item>
+                              <item>William Peake.</item>
+                              <item>James Edwards.</item>
+                              <item>Robert Clayton.</item>
+                              <item>Patience Ward.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>Relating to the Ship the <hi>Patience.</hi>
+               </head>
+               <div type="document">
+                  <head>
+                     <hi>Paſs from the Town of</hi> Sunderburg.</head>
+                  <p>AUguſtiſſimi ac potentiſſimi Regis <hi>Chriſtiani</hi> quinti, <hi>Daniae, Norwegiae, Vandalorum, Gotho<g ref="char:EOLhyphen"/>rumque</hi> Regis, <hi>&amp;c.</hi> Nos conſtituti Conſules ac Senatores Civitatis <hi>Sunderburgi,</hi> univerſis &amp; ſingulis cujuſcunque Dignitatis ſtatus, conditioniſve fuerint, has Literas noſtras inſpectu<g ref="char:EOLhyphen"/>ris, ut cujuſvis ſtatus &amp; conditio poſtulat; notum facimus &amp; teſtamur, quòd harum praemonſtra<g ref="char:EOLhyphen"/>tor Civis noſter dilectus, <hi>Johannes Petri</hi> Nauta, officiosè nobis ſignificaverit, quâ ratione cum preſenti ſua Navi, hîc apud nos ſtructa, &amp; <hi>Patientiae</hi> nomine inſignita, illi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> adjunctis &amp; illatis mer<g ref="char:EOLhyphen"/>cibus, ad tractanda ſua negoria, &amp; honeſtam verſuram exercendam, divino ſavente numine, in mari Orientali &amp; Occidentall, pro re natâ &amp; occaſione datâ hoc vere &amp; futura aeſtate dur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nte, <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>gate conſtituit; officiosè &amp; obuixè a nobis petendo, <hi>&amp;c.</hi> Eſt itaque, <hi>&amp;c. De verb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in verbum, as in the Paſs granted for the Ship the</hi> Palm-tree, <hi>except the difference of the Date,</hi>
+                  </p>
+                  <closer>
+                     <date>
+                        <hi>this being dated</hi> 18. March, 1672.</date>
+                  </closer>
+               </div>
+               <div type="document">
+                  <head>Toll-Schedule.</head>
+                  <p>In His Royal <hi>Majeſties</hi> Cuſtom-office in <hi>Chriſtiania, Hans Peterſen,</hi> from <hi>Sunderburg,</hi> Skipper of the Pinnace-Ship, with two Tops, called, <hi>the Patience,</hi> preſently ſailed by him, of the big<g ref="char:EOLhyphen"/>neſs according as the Met-brief bears, of 1041/<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> laſts, of date at <hi>Dramm,</hi> 26. <hi>April,</hi> 1671. ar<g ref="char:EOLhyphen"/>rived here the 14. of this inſtant, with 9800. Daills, and payed for each Laſt 4 1/<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Ricks-Ores,</hi> cometh in all to 117. <hi>Ricks-Dallers,</hi> 2. <hi>Marks,</hi> and 6. <hi>Shillings:</hi> and paſſes free. <hi>Datum Chri<g ref="char:EOLhyphen"/>ſtianiae,</hi> in the Cuſtom-office, 22. <hi>Junii.</hi> 1672.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Locus Sigilli.</hi> Jurgen Seckman.</item>
+                           <item>
+                              <hi>Regiſtred, Nicolas Fluggen.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <head>Freight-Brief.</head>
+                  <p>
+                     <hi>Anno</hi> 1672. the 23. <hi>June,</hi> In the Name of the <hi>Holy Trinity,</hi> we underſubſcribers did accord and agree together, in manner following, That I <hi>Jens Jenſen</hi> in <hi>Chriſtiania</hi> unto Skipper <hi>John Peterſen,</hi> for his preſent poſſeſſed Ship, called <hi>the Patientia</hi> from <hi>Sunderburg,</hi> after (GOD grant) a happy Arrival for <hi>London,</hi> ſhall pay him for Freight 175. <hi>lib. ſterl.</hi> But if <hi>unexpect<g ref="char:EOLhyphen"/>edly, contrary, and againſt his will, he ſhould be carried for</hi> Holland, he after a good Delive<g ref="char:EOLhyphen"/>ry there, ſhould have for his Freight 780. Ricks-Dalle<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. That this by GODS aſſiſtance, both from me Freighter <hi>Jens Jenſen,</hi> and me Skipper <hi>John Peterſen,</hi> may he accompliſhed and kept without skaith, we have theſe few lines, both together ſubſcribed, and every one of us taken a Copy for himſelf. Done at <hi>Chriſtianiae,</hi> year and day as above.</p>
+                  <closer>
+                     <signed>Jens Jenſen.</signed>
+                  </closer>
+                  <postscript>
+                     <p>Furthermore, there is promiſed to the Skipper for his <hi>Caplaken,</hi> 5. <hi>lib. sterl.</hi>
+                     </p>
+                  </postscript>
+               </div>
+               <div type="document">
+                  <pb n="12" facs="tcp:174772:9"/>
+                  <head>Miſſive Letter by the Freighter, to <hi>Peter Splidt,</hi> Merchant in <hi>London.</hi>
+                  </head>
+                  <p>Much Honoured and Reſpected Friend, <hi>Signior Peter Splidt, Salutem.</hi> Since my Couſin Skipper <hi>John Peterſen</hi> from <hi>Sunderburg,</hi> has bought his Loading of good D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ills, from me and an<g ref="char:EOLhyphen"/>other good Friend, I intreat you humbly, that after GOD does grant him a happy Arrival, you will be pleaſed to be helpful unto him, in exchanging the ſame. And if he ſhould deliver you any Mony, which for his own Loading, he remained reſting to a Friend here; I intreat you to accept of it, and if poſsible, by a ſure hand in <hi>Hamburg,</hi> to order it hither. Time will no more permit me for the preſent, but I ſhall write more about it with <hi>Nomen Ipſen.</hi> Be recom<g ref="char:EOLhyphen"/>mended to GODS Mercy.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Chriſtiania.</hi> 
+                        <date>the 23. <hi>June,</hi> 1672.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your willing Friend,</hi> Jens Jenſeu.</signed>
+                  </closer>
+               </div>
+               <div type="document">
+                  <head>Depoſitions of the Maſter, and one of the Mariners, before the <hi>Admirality.</hi>
+                  </head>
+                  <div type="section">
+                     <p>
+                        <hi>Edinburgh,</hi> 13. <hi>July,</hi> 1672. <hi>Compeared</hi> Hans Peterſen <hi>Maſter of the Ship, called,</hi> the Pati<g ref="char:EOLhyphen"/>ence, <hi>of the Age of</hi> 31. <hi>years, Married, who being ſolemnly ſworn and examined; Depones.</hi> That he was born, and dwels at <hi>Sunderburg,</hi> and that there are ten Eaters in the ſaid Ship, who live all in <hi>Jutland. And depones,</hi> that the Ship was built at <hi>Sunderburg</hi> a year ſince, and that he has been Maſter of her ever ſince. And that he firſt brought the Ship from <hi>Sunderburg</hi> with Ballaſt to <hi>Christiania</hi> in <hi>Norway,</hi> and went from <hi>Chriſtiania</hi> to <hi>London,</hi> with a Loading of Daills, to Mr. <hi>Pottinger</hi> there; and went again from <hi>London</hi> to <hi>Chriſtiania</hi> with Bailaſt. And at <hi>Laerwick</hi> took a new Loading of Daills upon Mr. <hi>Pottinger's</hi> Accompt, and came back therewith to <hi>London.</hi> And from that went to <hi>Newcaſtle,</hi> and took in a Loading of Coals, and from that went to <hi>Sunder<g ref="char:EOLhyphen"/>burg.</hi> And then, the firſt of <hi>April</hi> laſt, was freighted by <hi>Aptaket Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ket,</hi> at <hi>Jones</hi> in <hi>Finie,</hi> to take a Loading of Cornes to <hi>Bremen,</hi> and by ſtorm of Weather was put up to <hi>Amſterdam,</hi> and <hi>Law<g ref="char:EOLhyphen"/>rence Kettlestoun</hi> there, got the ſaid Cornes from the Deponent. And came with Ballaſt from <hi>Amsterdam</hi> to <hi>Chriſtiania,</hi> without any Order or Advice from his Owners, the Deponent and his Brother being moſt part Owners. <hi>And depones,</hi> That he loadned the Ship with 9800. Daills, at <hi>Chriſtiania</hi> in <hi>June</hi> laſt, and got Mony from <hi>Jens Jenſen,</hi> who is a 32. part Owner, and lives there. <hi>And depones,</hi> That he was going to <hi>London</hi> with the ſaid Loading, but was ta<g ref="char:EOLhyphen"/>ken by the way, upon the 2 <hi>July</hi> inſtant, about three or four leagues off the Shoar of <hi>Norway,</hi> by Captain <hi>Acheſon. And depones,</hi> That the <hi>Charter-party,</hi> and the <hi>Letter of Advic</hi> were di<g ref="char:EOLhyphen"/>rect to Mr. <hi>Splidt</hi> in <hi>London,</hi> who was to help the Deponent to ſell the Loading. <hi>And depones,</hi> That no part of Ship or Loading belongs to any of the Subjects of the <hi>United Provinces. And depones,</hi> That he caſt no Papers overboard, <hi>nor has no papers concealled, except the Charter-party and miſſive Letter above written. And depones,</hi> The Ship is of burden 104. Laſt, 4. Auchors, 3. Cables, one Haaſſer, and a Pertling, and Maſts clad, and Blocks full. And all this is of Truth, <hi>as he ſhall Anſwer to GOD.</hi>
+                     </p>
+                     <closer>
+                        <signed>Hans Peterſen.</signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>
+                        <hi>Eodem die. Compeared</hi> Niels Chriſtienſen <hi>Mariner in the ſaid Ship, of the age of twenty years, unmarried, who being ſolemnly ſworn and examined, Depones,</hi> That the Maſter and Mariners are all <hi>Daniſh</hi> men, and that he was hired to go to <hi>London</hi> with this Loading. And that he knows not of any Papers throwen overboard, deſtroyed, or concealed.</p>
+                     <closer>
+                        <signed>M. Jo. Stuart.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="document">
+                  <head>Commiſsion of the Lords.</head>
+                  <p>In <hi>actione reſciſſoria</hi> intentata coram Senatu Regni <hi>Scotiae,</hi> ad inſtantiam <hi>Ioannis Petri</hi> na<g ref="char:EOLhyphen"/>varchi &amp; anias <hi>ex</hi> exercitoribus navis <hi>Danicae,</hi> cui nomen <hi>Patientiae Sunderburgenſi,</hi> tam pro ſe quam pro caeteris exercitoribus ejuſdem navis, ac <hi>Ioanne Ioannis</hi> domino mercium quibus oneratae ſuit, agentis; <hi>adverſùs Alexandrum Acheſon,</hi> praefectum navi bellicae, <hi>Bruſsla</hi> dictae, ejuſque navis exercitores, alioſque quorum interest; <hi>ad reſcindendam</hi> ſententiam quandam à <hi>ſuprema Curia Admi<g ref="char:EOLhyphen"/>ralitatis</hi> latam, qua dicta navis <hi>Patientia Sunderburgenſis</hi> cum mercibus damnata eſt, <hi>adque reſtitutionem,</hi> &amp;c. <hi>as in the Commiſsion for the other Ship,</hi> the Palm-Tree.</p>
+               </div>
+               <div type="document">
+                  <head>Report of the Magiſtrates of <hi>Sunderburg.</hi>
+                  </head>
+                  <div type="section">
+                     <p>
+                        <hi>Nos Conſules, ac Senatores Civitatis</hi> Sunderburgenſis <hi>notum teſtatumque facimus, oblatum nobis fuiſſe</hi> Reſcriptum <hi>quoddam Senatus Regni</hi> Scotiae, <hi>datum die viceſimo ſecundo menſis</hi> Februarii, <hi>proxi<g ref="char:EOLhyphen"/>me preteriti, quo rogati ſumus, ut teſtes, de capitibus quibuſdam controverſis, in
+<pb n="13" facs="tcp:174772:9"/> actione inter</hi> Ioannem Petri <hi>navarchum navis</hi> Patientiae Sunderburgenſis, <hi>&amp;</hi> Alexandrum Acheſon <hi>praefectum navi bellicae,</hi> Bruſsia <hi>dictae, coram eodem Senatu pendente, examinaremus: prout dicto Reſcripto fuſè continetur. Qua in re, ne officio noſtro deeſſemus, ad inſtantiam actoris, testes infra ſcriptos in Judicium vocari <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>avim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>imi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>um</hi> Hermannum Cuhe, Ioannem Pauli, Ioan<g ref="char:EOLhyphen"/>nem Kaedt, Hermannum Thormohlen, Nicolaum Nicolai, <hi>&amp;</hi> Laurentium Joſten, <hi>cives hujus civitatis, viroſque fide dignos, atq<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> omni exceptione majores. Qui comparentes, ſingulique inter<g ref="char:EOLhyphen"/>rogati, juramento corporali ab ipſis <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ffi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mavere &amp; declaravere;</hi> Dictam navem, in hac civi<g ref="char:EOLhyphen"/>tate fabricatam, ad praenominatum <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Petri, Paulum Petri</hi> ejus germanum, <hi>Ioannem Chri<g ref="char:EOLhyphen"/>ſtianum Helm,</hi> &amp; <hi>Tichonem Ma<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>
+                        </hi> mercatores, <hi>Laurentiumque Georgii</hi> nautam, cives omnes <hi>Sunderburgenſes,</hi> atque <hi>Ioannem Ioan<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>,</hi> ac <hi>Chriſtianam Hammers,</hi> cives <hi>Chriſtainienſes;</hi> eoſque ſolos, nunc pertinere, temporeque quo c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pta eſt, &amp; in <hi>Scotiam</hi> abducta, pertinuiſſe: atque eo tem<g ref="char:EOLhyphen"/>pore, ad ter mille &amp; quingentos nummus imperiales aeſtimari potuiſſe. Eoſdemque ſubditos eſſe ſereniſſimi Regis <hi>Daniae</hi> &amp; <hi>Norw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>giae. Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſam ſcientiae itidem ſub juramento reddentes, quòd nove<g ref="char:EOLhyphen"/>rint</hi> illos cives, indigenas, atque incolas hujus atque <hi>Chriſtianienſis</hi> civitatis eſſe; ipſoſque, ab eo tempore quo fabricata eſi, eandem navem ſolos inſtruxiſſe, atque ab omnibus ſolos ejuſdem Dominos habitos ac reputatos fuiſſe, &amp; adhuc eſſe: tantique quum <hi>Chriſtiania, Londinum</hi> verſùs, menſe <hi>Junio,</hi> ſuperioris anni, iter ſuſciperet; ab illis vendi potuiſſe. <hi>Quorum in fidem nomina ſua ſubſcripſere atque ſigilla conſueta appoſuere.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>Herman Thor Mohlen.</item>
+                              <item>Nis Nielſen.</item>
+                              <item>Laurentz Joſten.</item>
+                              <item>Herman Cuhe.</item>
+                              <item>Hans Paulſen.</item>
+                              <item>Jens Kaett.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>
+                        <hi>Comparuere &amp; ipſi</hi> Ioannes Petri <hi>navarchus,</hi> Ioannes Chriſtianus Helm <hi>&amp;</hi> Ticho Matthiae <hi>mercatores, cives nostri nobiſque optimé noti, qui itidem juramento corporali praeſtito; aff<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>mavere ac declaravere,</hi> Dictam navem ad ſe ac <hi>Laurentium Georgii,</hi> &amp; <hi>Paulum Petri</hi> nautas itidemque cives hujus civitatis; (qui j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m vero hic non in loco, ſed reſpective <hi>Londinum</hi> ac <hi>Galliam</hi> verſùs quo à ſereniſſimi Regis <hi>Daniae</hi> &amp; <hi>Norwegiae</hi> ſubditis, cum ſuis navibus conducti ſunt, iter ſuſce<g ref="char:EOLhyphen"/>pere) etiamque ad <hi>Ioannem Ioannidem,</hi> &amp; <hi>Chriſtianam Hammers,</hi> cives <hi>Chriſtianienſes,</hi> ſolos per<g ref="char:EOLhyphen"/>tinere, eamque quo tempore capiebatur, iter <hi>Christiania Londinum</hi> verſùs faciens, à dicto <hi>Ioanne Ioannide</hi> conducta, à ſe vendi potuiſſe pretio trium millium ac quingentorum nummum imperialium. Onus autem totum, tabulis conſtans abiegnis, praeter mille, ad navarchum &amp; Nau<g ref="char:EOLhyphen"/>tas pertinentes, ad eundem <hi>Ioannem Ioannidem</hi> propriè pertinuiſſe.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>Hans Peterſen.</item>
+                              <item>Hans Chriſtian Helm.</item>
+                              <item>Tuge Matſen.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>
+                        <hi>Quae omnia ita in hac Curia in pleno Senatu uti ſupra ſcripta ſunt, peracta eſſe, publico hoc in<g ref="char:EOLhyphen"/>ſtrumento atteſtamur.</hi> Sunderburgi <hi>die quarto menſis</hi> Julii, <hi>anno milleſſimo ſexcenteſimo ſeptuageſimo tertio.</hi>
+                     </p>
+                     <closer>
+                        <signed>Ad mandatum Senatus ſubſcripſi <hi>Chriſtianus Arent Fiſcher,</hi> Jud. Secret. Juratus.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="document">
+                  <head>Report of the Magiſtrates of <hi>Chriſtiania.</hi>
+                  </head>
+                  <div type="section">
+                     <p>
+                        <hi>Praeſes Conſul ac Senatores Civitatis</hi> Chriſtianienſis <hi>notum testatum<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> ſacimus, oblatum fuiſſe nobis</hi> reſcriptum <hi>quoddam ſenatus Regni</hi> Scotiae, <hi>datum viceſimo secundo menſis</hi> Feberuarii <hi>proximè prae<g ref="char:EOLhyphen"/>teriti, quo rogati ſumus, ut teſtes, de capitibus quibuſdam controverſis, in actione inter</hi> Joannem Petri <hi>nvarachum navis</hi> Patientiae Sunderburgenſis, <hi>&amp;</hi> Alexandrum Acheſon, <hi>praeſectum navi bel<g ref="char:EOLhyphen"/>licae</hi> Bruſſia <hi>dictae, coram eodem Senatu pendente, examinaremus: prout dicto reſcripto fuſè continetur. Qua in re, ne officio noſtro deeſsemus, ad inſtantiam actoris, teſtes infra ſcriptos, in judicium vocari cuaravimus: nimirum</hi> Petrum Petri Mollerum, Magnum Laurentil, Nicolaum Joannis Gri<g ref="char:EOLhyphen"/>ſium, &amp; Chriſtianum Pauli, <hi>cives hujus urbis, viroſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> fide dignos, atque omni exceptione majores. Qui comparentes ſingulique interrogati, juramento corporali ab ipſis praeſtito, affirmavere &amp; declaravere,</hi> dictam navem a Joanne Joannide hinc Londinum, in Anglia, verſùs conductam ſuiſſe; menſe<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> 
+                        <hi>Junio</hi> ſuperioris anni, fuiſſe oneratam tabulis abiegnis &amp; pineis integris, octies mille quingentis quadraginta octo, dimidiatis vero quadringentis &amp; ſexaginta, longitudinis â novem vel decem ad duodecim pedum, latitudinis vero circiter unius, ad eundem <hi>Joannem Jo<g ref="char:EOLhyphen"/>annidem</hi> pertinentibus, atque mille integris pertinentibus ad ipſum navarchum ac nautas. Dictum autem <hi>Joannem Joannidem</hi> civem at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> incolam eſſe hujus urbis, proinde<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſereniſsimi <hi>Regis Daniae</hi> &amp; <hi>Norvegiae</hi> ſubditum. <hi>Cauſam reddentes ſcientiae,</hi> quòd praeſentes eſſent dum inter dictum <hi>Joan<g ref="char:EOLhyphen"/>nem</hi> atque Navarchum de locatione conductioneque ageretur: item quòd ſcirent tabulas ab eo ad navem onerandam, fuiſſe comparatas, &amp; viderint eaſdem illius nomine imponi navi, quod<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                        <pb n="14" facs="tcp:174772:10"/> eundem <hi>Joannem Joannidem</hi> optimê noverint eundem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſemper <hi>Londini,</hi> nec uſquam alibi negotiatum. Exiſtimare autem ſe navem ad eundem, <hi>Chriſtinam<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> Hammer,</hi> Civem &amp; illam quoque, hujus urbis, item <hi>Joannem Chriſtianum</hi> ſenatorem <hi>Sunderburgenſem,</hi> &amp; dictum Navarchum, <hi>Paul<g ref="char:EOLhyphen"/>lum Petri,</hi> ejus germanum, <hi>Tichonem Matthiae,</hi> &amp; <hi>Lauerentium Georgij,</hi> Cives <hi>Sunderburgenſes,</hi> eoſque ſolos pertinere, ac eo tempore quo capta eſt, pertinuiſſe. Quòd eandem ab illis ſolis ex<g ref="char:EOLhyphen"/>erceri, ejuſdem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ipſos Dominos habitos ac reputatos eſſe ſcirent. <hi>Inque fidem horum omni<g ref="char:EOLhyphen"/>um, quae a ſe juratis dicta ſunt, nomina ſua ac ſigilla hic appoſuere.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Peder Pederſen Moler.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nies Hanſen Gris.</hi>
+                              </item>
+                              <item>
+                                 <hi>Magnus Laurenſen.</hi>
+                              </item>
+                              <item>
+                                 <hi>Chriſtian Paulſen.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>
+                        <hi>Comparuere &amp; dicti</hi> Joannes Joannides, <hi>&amp;</hi> Chriſtina Hammer, <hi>Cives noſtri nobiſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> optime noti, qui &amp; ipſi quoque juramento corporali praeſtito, affirmavere &amp; declaravere,</hi> praedictam navem ad ſe, ſupraque nominatos Cives <hi>Sunderburgenſes</hi> ſolos pertinere, ac tempore quo caperetur, pertinuiſ<g ref="char:EOLhyphen"/>ſe. Dicto <hi>Joanne Joannide</hi> inſuper affirmante, ac declarante, eandem navem, menſe <hi>Junio,</hi> anni ſuperioris, oueris tabularum abiegnarum &amp; pinearum, <hi>Londinum</hi> devehendi gratiâ, ſe conduxiſse; eamque id genus tabulis, numero octies mille quingentarum quadraginta octo integratum, quadringentarum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>, &amp; ſexaginta dimidiatarum, longitudinis a novem vel decem ad duodecim pedum, uniuſque vero circiter pedis latitudinis, oneraſſe; quae ad ſe propriè pertinuere: praeter quas, fuiſſe ad mille integras, longitudine latitudineque ſuperioribus pares, navi impoſitas, quae pertinuere ad navarchum, atque noutas. <hi>Quorum in fidem nomina ſua ac ſiglla appoſuere.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Jens Jenſen.</hi>
+                              </item>
+                              <item>
+                                 <hi>Kerſten Hammer, Rilect of Jens Paulſen.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>Quae omnia, ita in Senatu noſtro, uti ſuprà ſcripta ſunt, peracta eſse, publico hoc instrumento Civitatis noſtrae ſigillo munito, ateſtamur. <hi>Chriſtianiae</hi> die <hi>12. Auguſti, anno</hi> milleſſimo ſexcente<g ref="char:EOLhyphen"/>ſimo ſeptuageſemo tertio.</p>
+                     <closer>
+                        <signed>
+                           <hi>Chriſtianus Rofingius.</hi> Notar. Chriſt.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="document">
+                  <head>Report of the Lord Major and Aldermen of <hi>London.</hi>
+                  </head>
+                  <div type="section">
+                     <p>
+                        <hi>TO ALL that ſhall ſee theſe Preſents, or hear them to be read, and eſpecially to the Lords of Coun<g ref="char:EOLhyphen"/>cil and Seſſion of</hi> Scotland, <hi>Sir</hi> ROBERT HANSON <hi>Knight, Lord Major, and the Aldermen or Senators of the City of</hi> London, <hi>ſend Greeting: Know ye, that on the day of the Date hereof, by vir<g ref="char:EOLhyphen"/>tue of the</hi> Commiſsion <hi>annexed, there appeared, and perſonally came into the Kings</hi> Majeſties <hi>Court, holden before us, in the Chamber of the</hi> Guildhall <hi>of the ſaid City, the ſeveral Deponents hereafter named, being Perſons well known, and worthy of good Faith and Credit; who, in anſwer to the ſeveral Que<g ref="char:EOLhyphen"/>ries and Allegations in the ſaid</hi> Commiſsion <hi>contained, did by their ſolemn Oath, which they ſeve<g ref="char:EOLhyphen"/>rally took upon the holy Evangeliſts of Almighty God, before us then, and there ſolemnly declare, teſtify and depoſe, for certain and undoubted truth, in manner and form, as in their ſeveral Depoſitions is at large contained,</hi> viz.</p>
+                     <p>Peter Splidt <hi>of</hi> London <hi>Merchant, aged fourty nine years, or thereabouts, ſworn and examined by virtue of the ſaid</hi> Commiſſion, <hi>depoſeth and ſaith upon his corporal Oath,</hi> That he well knoweth <hi>Hans Peterſen</hi> Maſter of the Ship <hi>Patience</hi> of <hi>Sunderburg,</hi> and that the ſaid <hi>Hans Peterſen, Tyge Matſen,</hi> and <hi>Hans Christian,</hi> are the Owners of the ſaid Ship <hi>Patience,</hi> and Inhabitants of <hi>Sun<g ref="char:EOLhyphen"/>derburg</hi> aforeſaid, and Subjects of the King of <hi>Denmark,</hi> and of no other Prince or Nation whatſo<g ref="char:EOLhyphen"/>ever. <hi>And for reaſon of his knowledge hereof, this Deponent ſaith,</hi> that he hath known all the Freights, that the ſaid Ship <hi>Patience</hi> hath brought to this Port of <hi>London,</hi> for ſeveral Years now paſt. And by the order and appointment of the ſaid Owners, and for their Accompt, this De<g ref="char:EOLhyphen"/>ponent hath received the ſeveral Sums of Money due for the ſaid Freights, here in <hi>London,</hi> and afterwards remitted the ſame to them by Bills of Exchange, for their own proper uſe. And <hi>this Deponent knoweth,</hi> That the ſaid Ship <hi>Patience</hi> was laden with Daills at <hi>Chriſtiania,</hi> by <hi>Jens Jen<g ref="char:EOLhyphen"/>ſen</hi> Merchant there (a Subject alſo of the ſaid King of <hi>Denmark,</hi>) and was bound for this Port of <hi>London,</hi> and no other Port whatſoever, at the time when ſhe was taken and carried into <hi>Scotland,</hi> which was in <hi>July</hi> laſt. And that the ſaid Loading was for the ſole and proper Ac<g ref="char:EOLhyphen"/>compt of the ſaid <hi>Jens Jenſen,</hi> and configned by him to this Deponent, unto this Port of <hi>London,</hi> to ſell the ſame here for him (except what was belonging to the Maſter and Ships Company:) <hi>For that</hi> this Deponent both before and ſince the Capture of the ſaid Ship <hi>Patience,</hi> received ſe<g ref="char:EOLhyphen"/>veral Letters from the ſaid <hi>Jens Jenſen</hi> concerning the ſame Loading, and conſignment thereof unto him to this Port of <hi>London,</hi> with order to take care of the Sale and Diſpoſal thereof, for his,
+<pb n="15" facs="tcp:174772:10"/> the ſaid <hi>Jenſens</hi> Accompt as aforeſaid. <hi>And this Deponent further ſaith,</hi> That the ſaid Ships Load<g ref="char:EOLhyphen"/>ing of Daills would have been worth, and ſold for here at this Port of <hi>London,</hi> (had they been brought hither when that ſhe was ſurpriſed and taken,) the ſeveral Prices following, <hi>viz.</hi> the <hi>eleven</hi> and <hi>twelve Foot</hi> Daills, for <hi>ſix Pounds</hi> the <hi>Hundred;</hi> and the <hi>nine</hi> and <hi>ten Foot</hi> Daills, for <hi>five Pounds</hi> the <hi>Hundred.</hi> And that he, this Deponent then ſold ſuch Daills for the ſaid Prices, that were of the ſame Parcel, as thoſe were of loadned in the ſaid Ship <hi>Patience</hi> at the time of her Capture, which came conſigned to this Deponent to this Port of <hi>London,</hi> in <hi>June</hi> 1672. in the Ship St. <hi>Peter</hi> of <hi>Sunderburg, John Matzen</hi> Maſter, laden at <hi>Christiania</hi> aforeſaid, by <hi>Jens Paulſen</hi> deceaſſed, and the aforeſaid <hi>Jens Jenſen. And moreover this Deponent ſaith,</hi> That he never knew or heard, that by the Cuſtom of the Court of the Admiralty of <hi>England, Norway</hi> Daills were ever accounted <hi>counterband Goods,</hi> or that they are adjudged ſo during this preſent War.</p>
+                     <closer>
+                        <signed>Peter Splidt.</signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>Hans Paulſen <hi>Maſter of the Ship called the</hi> Flying Hart <hi>of</hi> Sunderburg, <hi>aged twenty four years, or thereabouts, and</hi> Peter Jebſen <hi>Maſter of the Ship called the St.</hi> Peter <hi>of</hi> Sunderburg, <hi>aged twenty two years, or thereabouts, both Inhabitants of</hi> Sunderburg <hi>aforeſaed, but at preſent in this City of</hi> London, <hi>and Subjects of the King of</hi> Denmark, <hi>ſworn and examined by virtue of the ſaid</hi> Commiſſion, <hi>depoſe and ſay upon their corporal Oaths, joyntly, as followeth,</hi> viz. That they very well know <hi>Hans Peterſen</hi> Maſter of the Ship <hi>Patience</hi> of <hi>Sunderburg,</hi> in the ſaid Commiſſion mentioned, and that the ſaid <hi>Hans Peterſen</hi> is a Subject of the King of <hi>Denmark,</hi> and one of the Owners of the ſaid Ship, and that <hi>Hans Chriſtian, Tyge Matſen, Paul Peterſen,</hi> and <hi>Jens Jenſen</hi> (who are alſo Subjects of the King of <hi>Denmark,</hi>) are other of the Owners and Proprietors of the ſaid Ship <hi>Patience. And theſe De<g ref="char:EOLhyphen"/>ponents ſay,</hi> That in <hi>July</hi> laſt paſt, in the Voyage in which the ſaid Ship was taken and brought unto <hi>Scotland,</hi> ſhe was deſigned and intended with her Loading of Daills for the Port of <hi>London,</hi> and to no other Port whatſoever. <hi>And that they theſe Deponents,</hi> certainly know, and ſolemnly affirm, that the Loading of the Ship when ſhe was taken, did, and doth properly and ſolely belong and appertain unto the aforeſaid <hi>Jens Jenſen</hi> in the ſaid Commiſſion named. <hi>And theſe Deponents alſo well know,</hi> that the ſaid Ship <hi>Patience</hi> was built at <hi>Sunderburg</hi> aforeſaid, <hi>for that</hi> they ſaw the ſaid Ship there upon the Stocks in the time of her building. <hi>And that they theſe Deponents</hi> were at <hi>Chriſtiania</hi> in <hi>Norway,</hi> when the ſaid Ship was laden; and did therefore know that the ſaid Loading of the ſaid Ship, belonged to the ſaid <hi>Jens Jenſen,</hi> and that the ſame was deſigned only to the Port of <hi>London</hi> as aforeſaid.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Hans Paulſen.</hi>
+                              </item>
+                              <item>
+                                 <hi>Peter Jebſen.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>Charles Moore <hi>Notary publick, and Deputy Regiſter of the High Court of Admiralty of</hi> England, <hi>aged fourty three years, or thereabouts; and</hi> John Hough <hi>Notary publick one of the Clerks of the ſaid Court, aged twenty eight years, or thereabouts, ſworn and examined by virtue of the ſaid</hi> Commiſſion, <hi>depoſe and ſay upon their Corporal Oaths,</hi> That by the Cuſtom of the Court of Admiralty of <hi>England,</hi> Firre Daills are not, nor never were, ſince their remembrance, accounted <hi>counterbond Goods. Gi<g ref="char:EOLhyphen"/>ving for reaſon of their knowledge, for that</hi> he the ſaid <hi>Charles Moore,</hi> hath belonged to the ſaid Court as a Clerk, and Deputy Regiſter, for the ſpace of twenty years; and he the ſaid <hi>John Hough,</hi> for the ſpace of ſeven years, and are acquainted, and do very well know, that during the time of the laſt War, and this preſent War, ſeveral Ships laden with Firre Daills (after it was made to appear in the ſaid Court they belonged to Friends and Allies) have been reſtored to the Owners, and more particularly the Ships called the <hi>Dram</hi> of <hi>Norway,</hi> the <hi>Chriſtianus quintus,</hi> the <hi>Salvadore,</hi> and ſeveral others.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Charles Moore.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Hough.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <p>IN FAITH and Teſtimony whereof, We the ſaid Lord Major and Aldermen of the ſaid City of <hi>London,</hi> the Seal of the Office of Majorality of the ſame City to theſe Preſents, by us ſigned, have cauſed to be put and affixed, and the ſame to be ſigned by our Town Clerk. Dated at <hi>London,</hi> the two and twenti<g ref="char:EOLhyphen"/>eth day of <hi>July, Anno Dom. 1673.</hi> And in the five and twentieth year of the Reign of our Soveraign Lord, King <hi>Charles</hi> the ſecond, by the Grace of God, of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+                     </p>
+                     <closer>
+                        <signed>Locus Sigilli.</signed>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Robert Hanſon, Major.</hi>
+                              </item>
+                              <item>
+                                 <hi>Wagſtaffe,</hi> 
+                              </item>
+                              <item>
+                                 <hi>Thomas Bludworth.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Turner.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Moore.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Frederick.</hi>
+                              </item>
+                              <item>
+                                 <hi>Richard Ford.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Prichard.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Peake.</hi>
+                              </item>
+                              <item>
+                                 <hi>James Edwards.</hi>
+                              </item>
+                              <item>
+                                 <hi>Robert Clayton.</hi>
+                              </item>
+                              <item>
+                                 <hi>Patience Ward.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+               </div>
+            </div>
+            <pb n="16" facs="tcp:174772:11"/>
+            <div type="part">
+               <head>Relating to both Ships.</head>
+               <div type="document">
+                  <head>
+                     <hi>Atteſtation of the Admirality of</hi> Holland, <hi>that Daills are not</hi> Counterband.</head>
+                  <div type="section">
+                     <p>For ſatisfying, the Petition ſubjoyn'd, The Petitioner receives this Declaration, That <hi>Norway</hi> Daills by this Court, according to the order of <hi>Holland,</hi> are not reputed <hi>Counter<g ref="char:EOLhyphen"/>band</hi> Commodities. <hi>Actum</hi> the <hi>13th. <hi>April.</hi> 1673.</hi>
+                     </p>
+                     <closer>
+                        <dateline>
+                           <hi>M. Fochen.</hi> 
+                           <date>
+                              <hi>1673.</hi>
+                           </date>
+                        </dateline>
+                        <signed>
+                           <hi>By command of the Court, <hi>J. de Wit.</hi>
+                           </hi>
+                        </signed>
+                        <signed>Locus Sigilli.</signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <head>By the Noble and Mighty Lords, the Commiſſioners of the Court of Admiralty at <hi>Amſterdam.</hi>
+                     </head>
+                     <p>
+                        <hi>Bernard Vander Linden,</hi> Merchant here, giveth with all beſeeming reverence, to know; how that in the year <hi>1672.</hi> the Ship called the <hi>Patience,</hi> whereof <hi>Hans Peterſen</hi> of <hi>Sunderburg</hi> is Skipper; and the Ship called the <hi>Palm-trree,</hi> whereof <hi>Carſten Matſen</hi> of <hi>Sunderburg</hi> is Skipper; was caped and brought up to <hi>Edinburgh</hi> in <hi>Scotland</hi> by ſome <hi>Scots</hi> Capers: which foreſaid Ships be<g ref="char:EOLhyphen"/>long to <hi>Sunderburg,</hi> and their Loading conſiſts of <hi>Norway</hi> Daills. And in like manner, the Owners of the foreſaid Ships and Loadings, have reclaimed the ſame before the Government of <hi>Edinburgh,</hi> who have brought the matter in queſtion ſo far, that the Owners have to prove that <hi>Norway</hi> Daills are no ways Commodities of <hi>Counterband</hi> here in this Country, ſo as thereupon the ſaid Ships and Loadings are to be declared free. Wherefore the Supplicant means himſelf unto your Noble and Mighty Lordſhips; ſubmiſſively intreating, that you would be pleaſed to grant him a Declaration, That <hi>Norway</hi> Daills are not holden for <hi>Counterband</hi> Commodities in this Countrey, which doing, I remain,</p>
+                     <closer>
+                        <signed>Your Noble and Mighty Lordſhips Servant, <hi>Bernard Vander Linden,</hi> in name of the Skippers <hi>Carſten Matſen,</hi> and <hi>Hans</hi> Peterſen <hi>of</hi> Sunderburg.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="document">
+                  <head>His <hi>Majeſtie</hi>'s Declaration in favour of the <hi>Danes.</hi>
+                  </head>
+                  <div xml:lang="fre" type="version">
+                     <head>De la part de Sa Majeſté le Roy de le <hi>Grand' Bretaigne,</hi> l'Extraict de la Reſponſe de Mon<g ref="char:EOLhyphen"/>ſieur le Secretaire <hi>Trevor</hi> ſur le Memoir de Mo<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>r l' Envoyé Extradinaire de <hi>Denne<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi> preſenté le neufieſme <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                              <desc>•••••</desc>
+                           </gap>.</hi>
+                     </head>
+                     <p>LE Roy m'a commandé à v<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> donner <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> reſponſe an Memoir que vous auez <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſenté le neufieſme inſtant;</p>
+                     <p>Que Sa Majéſte eſt d'accord &amp; <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> durant la Guerre preſente, tous les Suiets du Roy de <hi>Dennemarc,</hi> de quelques Lieux qu'ils en viennent, puiſſent paſſer &amp; repaſſer libre<g ref="char:EOLhyphen"/>ment, auec leurs Gents &amp; Navires. Et quant aux Marchandiſes, qu'ils puiſſent traffiquer li<g ref="char:EOLhyphen"/>brement, &amp; porter en tous Lieux (excepté dans les Places aſſiegées) toutes ſortes <hi>de Bois, de Maſts, de Viures, le Lin, le Chanvre, le Poix, le Goldron,</hi> &amp; toutes ſórtes de Marchandiſes, hormis <hi>les Munitions de Guerre, le Canon, &amp; toutes ſortes d' Armes,</hi> à feu &amp; tranchantes; les<g ref="char:EOLhyphen"/>quelles ſerunt eſtimées <hi>contrabende.</hi>
+                     </p>
+                     <closer>
+                        <signed>Jeſuis, Monſieur, Voſtre—</signed>
+                        <dateline>A <hi>Whitehall</hi> 
+                           <date>ce 22. <hi>May</hi> 1672.</date>
+                        </dateline>
+                        <signed>
+                           <hi>I'ay fait chercher les Registres de Monſieur le Secretaire</hi> Trevor, <hi>&amp; trouue que cet Eſcrit eſt la vraye Copie de ce que le dit Sieur <hi>Trevor</hi> eſcrevit alors à Monſieur l' Envoyé Extraordinaire de</hi> Den<g ref="char:EOLhyphen"/>nemarc. Henry Coventry.</signed>
+                        <dateline>A <hi>Whithal,</hi> 
+                           <date>ce dixhuictieſme d'Aouſt, 1673.</date>
+                        </dateline>
+                     </closer>
+                  </div>
+                  <div xml:lang="eng" type="version">
+                     <head>An Extract of the Kings Declaration in favour of the <hi>Danes,</hi> delivered by Mr. Secretary <hi>Trevor,</hi> in anſwer to a Memorial of the <hi>Daniſh</hi> Envoy Extraordinary, in <hi>May 1672.</hi>
+                     </head>
+                     <p>THE King has commanded me to give you in Anſwer to your Memorial which you have exhibited the 9th. Inſtant;</p>
+                     <p>That His <hi>Majeſty</hi> doth agree and declare, that all the Subjects of the King of <hi>Denmark,</hi> may during this preſent War, freely paſs and repaſs from what places ſoever they come, with their People and Ships. And concerning their Merchandiſes, that they may and can freely traffick and carry to all places (except thoſe that are beſieged) all ſorts of <hi>Wood, Maſts, Pro<g ref="char:EOLhyphen"/>viſions, Flax, Hemp, Pitch, Tar,</hi> and all other ſorts of Merchandiſes, except <hi>Warlike Ammu<g ref="char:EOLhyphen"/>nition, Canons,</hi> and all other ſorts of Arms, for firing, aſwell as cutting; which ſhall be eſteem<g ref="char:EOLhyphen"/>ed <hi>Conterband</hi> Goods.</p>
+                     <closer>
+                        <signed>I am Sir Your—</signed>
+                        <dateline>At <hi>Whitehal</hi> 
+                           <date>this 22. of <hi>May,</hi> 1672.</date>
+                        </dateline>
+                     </closer>
+                     <postscript>
+                        <p>
+                           <hi>I have cauſed look the Regiſters of the deceaſſed</hi> Mr. Secretary Trevor, <hi>and find that this Writing is a true Copy of what the ſaid</hi> Mr. Secretary <hi>wrote then to the Envoy Extraordinary of</hi> Denmark. Henry Coventry.</p>
+                        <closer>
+                           <dateline>At <hi>Whitehall</hi> 
+                              <date>this 28. of <hi>Auguſt.</hi> 1673.</date>
+                           </dateline>
+                        </closer>
+                     </postscript>
+                  </div>
+               </div>
+               <div type="document">
+                  <pb n="17" facs="tcp:174772:11"/>
+                  <head>
+                     <hi>Proteſtation</hi> in behalf of the <hi>Strangers,</hi> againſt the Capers, their ſending the Ship, the <hi>Palm-tree</hi> to Sea, after the <hi>Lords</hi> of <hi>Seſſion</hi> (by their <hi>Sentence, Feb. 25. 1674.</hi>) had declared the ſame <hi>free,</hi> The like <hi>Proteſtation (navarchi naviſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> tantum mutatis nominibus)</hi> being made at the ſame time, in behalf of the <hi>Strangers</hi> concerned in the Ship the <hi>Patience.</hi>
+                  </head>
+                  <p>AT <hi>LIETH</hi> and <hi>EDINBURGH,</hi> the <hi>ſeventienth</hi> and <hi>eightienth</hi> dayes of <hi>April,</hi> 1674. and of the reign of Our Saveriagn Lord <hi>CHARLES,</hi> the Second, the twenty ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xtth year. The which Dayes, in preſence of me Notary publick underſubſcribing, and Witneſſes afternamed, compeared Mr. <hi>John Jnglis Advocat,</hi> as <hi>Factor</hi> for <hi>Carsten Matzen,</hi> Maſter and Part-owner of the Ship called the <hi>Palm-tree</hi> of <hi>Sunderburg,</hi> and <hi>Hans Jebſen</hi> Merchant in <hi>Sunderburg,</hi> the other Part-owner of the ſaid Ship. And paſt to the Houſe of <hi>William Binning</hi> Merchant in <hi>Edinburgh,</hi> and Reſidenter in the ſaid Town of <hi>Lieth</hi> as Part-owner of the Frigat called the <hi>Bruce,</hi> whereof <hi>Alexander Acheſon</hi> was Captain, and as cautioner for the ſaid Captain. Where, having inquired at the ſaid <hi>William Binning</hi>'s Wife, if her Husband was within; and ſhe having anſwered, he was not at home: he exhibited, and produced to her a <hi>Factory</hi> granted to him, by the ſaid <hi>Carſten Matzen,</hi> and <hi>Hans Jebſen,</hi> of the Date at <hi>Sundersburg,</hi> the <hi>fifth</hi> of <hi>July,</hi> 1673. and an <hi>Act</hi> and <hi>Commiſſion</hi> of the <hi>Lords of Council and Seſſion,</hi> dated the <hi>two and twentieth</hi> of <hi>February,</hi> 1673. at the inſtance of his ſaid Conſtitutents, and the Proprietar of the Loading, of the ſaid Ship, the <hi>Palm-tree</hi> againſt the ſaid Captain <hi>Acheſon</hi> and the Owners of the ſaid Frigat, and the ſaid Captain his ſaid Cautioner; for <hi>re<g ref="char:EOLhyphen"/>ducing</hi> of a Decreet of the Court of Admirality, for the Reaſons therein mentioned; together with the ſaid Lords their <hi>Interlocutor</hi> minuted upon the Margin of the ſaid Act, by Mr. <hi>John Hay</hi> of <hi>Hayſtoun,</hi> one of the Clerks, of the date the 25. of <hi>February</hi> laſt, bearing, That the <hi>Lords having adviſed the</hi> Reports, <hi>and</hi> Depoſitions <hi>contained in the Reports, They found, that the</hi> Property <hi>of the Ship and Goods belonged to the ſaid</hi> Carſten Matzen, <hi>and his Owners His</hi> Maje<g ref="char:EOLhyphen"/>ſty's <hi>Allies. And therefore reduced the ſaid Decreet before the Admirality.</hi> And alſo produced the <hi>Printed Articles of Alliance and Commerce</hi> between the moſt Serene and Potent Prince <hi>Charles the ſecond,</hi> by the grace of GOD, King of <hi>Great Britain, France, and Ireland</hi> Defender of the Faith, <hi>&amp;c.</hi> and the moſt Serene and Potent Prince, <hi>Chriſtian the fifth,</hi> by the grace of GOD King of <hi>Denmark, Norway,</hi> &amp;c. Concluded at <hi>Copenhagen,</hi> the eleventh day of <hi>July,</hi> 1670. and 37. Article thereof; Whereby it is declared, <hi>That it ſhould not be lawfull, either be fore the giving of the</hi> firſt Sentence, <hi>or afterwards during the time of the</hi> Re-hearing, <hi>to unload, ſell, or make away the Goods in controverſie, unleſs it ſhould happen to be done by conſent of Parties.</hi> And the ſaid Mr. <hi>John Inglis</hi> intimated to the ſaid <hi>William Binning</hi>'s Wife, that he heard, and was informed, that her Husband and his Partners were to ſend the ſaid Ship, the <hi>Palm-tree</hi> to Sea; and declared his <hi>Diſſent</hi> from their ſo doing, or diſpoſing of the ſaid Ship any manner of way whatſoever, as being a <hi>free Ship</hi> belonging to his Conſtituents, Subjects to the King of <hi>Denmark,</hi> and ſo <hi>found</hi> and <hi>declared</hi> by the Lords Interlocutor above-mentioned: and required that the ſaid Ship might be kept in a ſafe Harbour; within this Kingdom <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd put in <hi>ſafe Cuſtody,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill the ſaid Lords their Sentence was extracted; and he as <hi>Factor</hi> forſaid put in <hi>poſſeſſion</hi> thereof, in as good <hi>condition</hi> as ſhe was the time of the <hi>Capture.</hi> And if they did in the contrary, <hi>proteſted;</hi> likeas, he hereby doth <hi>protest</hi> againſt their ſo doing, as <hi>illegal</hi> and <hi>unwarrantable,</hi> and an expreſſe <hi>Violation</hi> of the ſaid <hi>Daniſh Treaty:</hi> and that the Captain and Owners of the ſaid Privateer, and the ſaid <hi>William Binning,</hi> as Cautioner for the ſaid Captain, might be lyable each of them <hi>in ſolidum</hi> for the <hi>highest Prices</hi> proven, or which could be proven by his ſaid Conſtituents, the ſaid Ship was <hi>worth</hi> when ſhe was <hi>taken.</hi> And for all Coſt, Skaith, Damage, and Intereſt his ſaid Conſtituents might ſuſtain, by the ſaid Perſons their diſpoſing of the ſaid Ship contrary to <hi>Law,</hi> the Lords <hi>Sentence,</hi> the <hi>Treaty,</hi> and this his preſent <hi>Requiſition:</hi> and might be cenſured as <hi>Infractors</hi> and <hi>Violators</hi> of the ſaid <hi>Treaty.</hi> To which the ſaid <hi>William Binning</hi> his Wife made anſwer, That ſhe could ſay nothing, her Husband not being at home. Thereafter the ſaid Mr. <hi>John Jnglis</hi> paſt to the perſonal preſence of <hi>Sir James Standfield</hi> of <hi>Newmilnes,</hi> another of the Owners of the ſaid Privateer, and having exhibited and produced to him the foreſaid <hi>Factory, Act</hi> and <hi>Commiſſion, I<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>erlocutor</hi> there<g ref="char:EOLhyphen"/>upon, and <hi>Treaty;</hi> and having <hi>declared</hi> to, and <hi>required</hi> him, and <hi>proteſted tot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dem verbis,</hi> againſt him, in manner abovewritten, The ſaid <hi>Sr. James Standfield,</hi> after his reading of the Lords Interlocutor, and the Article above mentioned of the ſaid Treaty, anſwered, That no regard could be had to the Lords Interlocutor, becauſe the <hi>Decreet</hi> was not <hi>extracted;</hi> And as to the Treaty it was taken away by the <hi>Declaration of the late War.</hi> To which the ſaid Mr. <hi>John Inglis</hi> opponed the <hi>Lords Interlocutor,</hi> and Treaty abovewritten, and adhered to his <hi>Declaration, Requiſition,</hi> &amp; <hi>Proteſtation</hi> founded thereupon, in manner above mentioned. Thereafter upon the ſaid <hi>eightienth</hi> day of <hi>April</hi> inſtant, the ſaid Mr. <hi>John Inglis</hi> as <hi>Factor</hi> foreſaid, paſt to the perſonal preſence of <hi>Robert Baird</hi> Merchant in <hi>Edinburgh,</hi> another Owner of the ſaid Privateer, and produced to him his ſaid <hi>Factory,</hi> the <hi>Act</hi> and <hi>Commiſsion</hi> foreſaid, <hi>Interlocutor</hi> of the Lords thereupon, and <hi>Treaty</hi> abovementioned: and likewayes, <hi>declared</hi> to, <hi>required</hi> of, and <hi>protestated</hi> a<g ref="char:EOLhyphen"/>gainſt him in manner above mentioned. To the which, the ſaid <hi>Robert Baird</hi> anſwered for himſelf, and in name of the preſent Owners of the ſaid Ship, <hi>That he protested againſt the ſaid
+<pb n="18" facs="tcp:174772:12"/> Skipper and his Factor, and</hi> Samuel Makrieth <hi>their Cautioner, for all Coſt, Skaith, &amp; Damage, that they had already ſustained by arreſting the ſaid Ship, whereby their voyage was already ſtopt.</hi> And likewiſe proteſted, <hi>No reſpect could be had to the</hi> Lords Interlocutor, <hi>becauſe no Decreet extracted.</hi> And further proteſted, <hi>That no reſpect could be had to that part of the</hi> Daniſh Treaty, <hi>in reſpect the ſame extended not to the Ships, but to the Goods that were periſhable: without prejudice of their fur<g ref="char:EOLhyphen"/>her Deſenſes, as accorded of the Law.</hi> To the which, the ſaid Mr. <hi>John Inglis</hi> opponed the <hi>Lords Interlocutor,</hi> and <hi>Article</hi> of the <hi>Treaty</hi> above written; and adhered to his former <hi>Declara<g ref="char:EOLhyphen"/>tion, Requiſition,</hi> and <hi>Proteſtation,</hi> againſt the ſaid <hi>Robert Baird</hi> and his whole Partners. Upon all and ſingular the Premiſſes, the ſaid Mr. <hi>John Inglis, nomine quo ſupra;</hi> and the ſaid Sir <hi>James Standfield</hi> and <hi>Robert Baird,</hi> upon the Anſwers made by them; asked Inſtrument, <hi>&amp;c.</hi> And ſicklike, I the ſaid <hi>Notary</hi> underſubſcribing, at the Requeſt and Command of the ſaid Mr. <hi>John Inglis,</hi> went to the perſonal preſence of the ſaid <hi>William Binning,</hi> upon the ſaid <hi>eigh<g ref="char:EOLhyphen"/>tienth</hi> day of <hi>April,</hi> and made due and lawful Intimation of the foreſaid <hi>Declaration, Requi<g ref="char:EOLhyphen"/>ſition</hi> and <hi>Proteſtation</hi> made to his Wife, in the ſaid <hi>William's</hi> abſence, in manner above men<g ref="char:EOLhyphen"/>tioned. And having ſhown to him the aforeſaid <hi>Factory, Act</hi> and <hi>Commiſsion</hi> with the <hi>Lords Interlocutor,</hi> and the <hi>Treaty</hi> above mentioned; The ſaid <hi>William</hi> declared, <hi>That he and his Part<g ref="char:EOLhyphen"/>ners, ſent the ſaid Ship to Sea, by virtue of an Adjudication obtained before the high Court of</hi> Ad<g ref="char:EOLhyphen"/>mirality, <hi>and had nothing to ſay to the ſaid</hi> Interlocutor, <hi>or</hi> Daniſh Treaty. Theſe things were done at the Places afterſpecified, <hi>viz.</hi> to the ſaid <hi>William Binning</hi> his Wife, upon the <hi>ſeventienth</hi> day of the ſaid inſtant Month, and year of GOD foreſaid, in his ſaid dwelling Houſe at <hi>Leith,</hi> be<g ref="char:EOLhyphen"/>twixt ten and eleven of the Clock in the forenoon; before theſe Witneſſes <hi>Mr. John Elſhner</hi> In<g ref="char:EOLhyphen"/>dweller in <hi>Edinburgh,</hi> and <hi>George Davidſon</hi> Servitor to the ſaid Mr. <hi>John Inglis.</hi> And on the ſaid day, to the ſaid Sir <hi>James Standfield,</hi> in the Houſe of <hi>James Hamilton,</hi> at the Sign of the Ship, in <hi>Lieth,</hi> betwixt four and five of the Clock in the afternoon; Witneſſes, the ſaid Mr <hi>John Elſhner,</hi> and <hi>George Davidſon,</hi> and <hi>John Davidſon</hi> Indweller in <hi>Lieth.</hi> And upon the ſaid <hi>eigh<g ref="char:EOLhyphen"/>tienth</hi> day of <hi>April,</hi> and year of GOD foreſaid, to the ſaid <hi>Robert Baird</hi> in the old Coffee-houſe of <hi>Edinburgh,</hi> in Sir <hi>James Stuart's</hi> Cloſs, betwixt eight and nine in the fore<g ref="char:EOLhyphen"/>noon; Witneſſes, the ſaid Mr. <hi>John El<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hner,</hi> and <hi>George Davidſon.</hi> And intimat and prote<g ref="char:EOLhyphen"/>ſted to the ſaid <hi>William Binning</hi> the ſaid day in manner above written, betwixt the Hours of two and three in the afternoon, at the Poſt Office of <hi>Edinburgh;</hi> before theſe Witneſſes, <hi>Gilbert Story</hi> Maltman in <hi>Lieth, Henry Mader</hi> Meſſenger in <hi>Edinburgh,</hi> and <hi>William Montgomrey</hi> Meſſen<g ref="char:EOLhyphen"/>ger in <hi>Edinburgh.</hi> Which ſaid Witneſſes were all ſpecially called, and required, in manner, and at the times above written.</p>
+                  <closer>
+                     <signed>
+                        <hi>Ita eſt</hi> Ioannes Farquhar <hi>Notarius publicus, in praemiſſis requiſitus, teſtan. meis ſigno at ſub<g ref="char:EOLhyphen"/>ſcriptione manualibus.</hi> Jo. Farquhar.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <p>The Informations given in for the Strangers, and the Capers, in relation to His <hi>Majestie's</hi> INSTRUCTIONS, whereupon the In<g ref="char:EOLhyphen"/>terlocutor of the Lords <hi>July</hi> 23. 1674. proceeds, As the ſame are inſert in the Decreets of the Lords, in the Strangers favour, pro<g ref="char:EOLhyphen"/>nounced, <hi>Feb.</hi> 25. 1674. but not extraced till the 30. <hi>July</hi> 1680.</p>
+               <div type="document">
+                  <head>Information for the STRANGERS.</head>
+                  <p>IN the Reduction of the Decreets of <hi>Adjudication</hi> of the ſaid Ships, the <hi>Palm-tree</hi> and <hi>Pa<g ref="char:EOLhyphen"/>tience,</hi> the pretended grounds of <hi>Adjudication,</hi> being coincident as to both; the Lords, by their Interlocutor, <hi>Feb.</hi> 22. 1672. allowed the Purſuers to prove the Propency of the Ships, and Goods, and Value. And likewiſe to prove the <hi>Daills</hi> that were their Loadings, were not <hi>Counter-band</hi> by the <hi>Cuſtom</hi> of the <hi>Admiralities</hi> of <hi>England</hi> and <hi>Hol<g ref="char:EOLhyphen"/>land.</hi> And allowed the Defenders to prove the contrary.</p>
+                  <p>After which Interlocutor, there was a Bill given in by the Defenders, pretending, that by His <hi>Maieſties Inſtructions,</hi> it was declared; That <hi>the having or uſing</hi> of falſe, <hi>or</hi> double <hi>Do<g ref="char:EOLhyphen"/>ctuments</hi> or <hi>co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ling of Papers,</hi> was a juſt ground of Confiscation. And that it was proved, and acknowledged by the Skippers that there were <hi>concealed Papers</hi> the Skipper of the <hi>Palm-tree,</hi> hauing <hi>denyed,</hi> that he had any <hi>Charter-partie,</hi> which notwithſtanding was concealed, a Ship-board; and the Skipper of the <hi>Patlentia,</hi> having declared, <hi>that he had no Paper<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> concealed, except a Charter partie, and miſſiue Letter.</hi> And thereupon craving, That the Ships, and Goods might be declared lawful Priſe upon that ground. Notwithſtanding whereof the Lords adhered to their former Interlocutor: but declared that they would conſider the ſame, the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me of the adviſing the Reports.</p>
+                  <pb n="19" facs="tcp:174772:12"/>
+                  <p>There was then Reports made upon the ſaid Commiſſion, whereby the points of the Inter<g ref="char:EOLhyphen"/>locutor were fully cleared and proven, <hi>viz.</hi> That the Property of the Ships and Goods did belong to the Subj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts of the King of <hi>Denmark</hi> and the Value was likewiſe proven, and the Cuſtoms of <hi>England</hi> and <hi>Holland,</hi> That <hi>Daills</hi> were not <hi>Counterband.</hi>
+                  </p>
+                  <p>It being alledged, That notwithſtanding, the Ships and Goods muſt be declared lawful Priſe upon the Pretences contained in the Bill, <hi>viz. That the Skippers acknowledge by their</hi> Depo<g ref="char:EOLhyphen"/>ſitions that <hi>there were Papers concealed.</hi>
+                  </p>
+                  <p>It was anſwered, The Pretences are of no weight: and it were indeed a Preparative, the like whereof did never eſcape the <hi>Publict Justice</hi> of any Nation, upon ſuch impertinent and frivolous Conceits, to deprive his <hi>Majeſties</hi> Allies of their Ships, and Goods, after ſo clear and full and undenyable a <hi>Probation</hi> of the Propertie, as is here proven at three ſeveral Places, <hi>vix. Sunder<g ref="char:EOLhyphen"/>burg</hi> in <hi>Denmark, Christiania</hi> in <hi>Norway,</hi> and at <hi>London.</hi> So that it is impoſſible any ſcruple can remain, but that the Propertie of the Ships and Goods did truely belong to the Subjects of the King of <hi>Denmark;</hi> and were as truely deſigned for the Port of <hi>London,</hi> as is clear by the ſame Probation.</p>
+                  <p>And as to what was urged upon the <hi>concealing of Papers,</hi> albeit there had been Papers con<g ref="char:EOLhyphen"/>cealed, His Majeſtie's <hi>Inſtructions</hi> could be here no ground of Confiſcation. 1. Becauſe his Majeſtie's <hi>Inſtructions</hi> were long after the Capture, and could not be extended <hi>quoad praeterita.</hi> 2. By the 24. Article of the <hi>Daniſh Treaty,</hi> which is <hi>lex bell,</hi> it is provided, that Juſtice and Equity ſhould be adminiſtred to the Subjects of either Crown, <hi>according to the Statutes and Lows</hi> of either Countrie: and therefore no ſuch private <hi>Inſtruction</hi> could prejudge the Purſuers contrary to the <hi>Treaty.</hi>
+                  </p>
+                  <p>But here the Pretence of <hi>concealing Papers</hi> was frivolous. For. 1. when the Ships were taken, the Skippers did produce to the Captain of the Privateer certain Papers, and cold him that they had thoſe which were pretended to be <hi>concealed</hi> a Ship-board; and deſired liberty to bring the ſame: which he refuſed, and inſolently told them, <hi>That they behoved to go to Scot<g ref="char:EOLhyphen"/>land,</hi> what ever Papers they had aboard, <hi>for they did not know what GREAT OWNERS be had.</hi> And withall then ſaid, <hi>that they might then produce their Papers when they were in Scotland.</hi> 2. When they were brought to <hi>Scotland,</hi> the Skippers before the Admiral, declared, <hi>That they had the ſaid Papers a Ship-board,</hi> and were allowed to go a Ship-board and fetch them; and did go in company of the Privateer. And as one of the Skippers was taking out of one part of the Ship one Paper, the Captain of the Privateer, or ſome of his Officers did fall upon the <hi>other,</hi> not having the patience, till the Skipper took it out himſelf. And if that be a prettie <hi>Concealment,</hi> the Lords wre deſired to judge. 3. What imaginable reaſon could there be, for any ſuch <hi>fraudulent Concealment,</hi> as to <hi>Scots</hi> or <hi>Engliſh</hi> Capers; the Papers alledged to be <hi>concaled</hi> being Documents of the Ships <hi>Freedom,</hi> and that the <hi>Port deſigned</hi> was <hi>London:</hi> the Papers being <hi>Freight-brieffs,</hi> and <hi>miſſiue Letters,</hi> dicreet to Mr. <hi>Shorter,</hi> and Mr. <hi>Splide</hi> at <hi>London.</hi> 4. The <hi>Clauſe</hi> in His Majtſtie's <hi>Inſtructions</hi> can only be underſtood in ſuch a caſe, when Writs are <hi>abſtracted</hi> and <hi>concealed,</hi> and whereof the <hi>tenor does not appear,</hi> and ſo <hi>in dubio</hi> are preſumed for the condemnation of the Ship, or <hi>if found,</hi> do make out the ſame. But what is that to the purpoſe here? For, <hi>primo,</hi> The Depoſition of the Skipper of the Ship called the <hi>Patientia,</hi> bears, <hi>That he had no Papers concealed, but a Charter partie, and a misſive Letter, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>go</hi> he having <hi>declared</hi> the ſame, it was no <hi>Concealment.</hi> And the ſenſe of the Depoſition is ſingly this; That he had them a Ship-board, and which he had hid upon the account of the <hi>Holland</hi> Capers, theſe clearing that the <hi>Port deſigned</hi> was <hi>London,</hi> and which did not appear from any of the Docu<g ref="char:EOLhyphen"/>ments not concealed. <hi>Secundo.</hi> The Skippers depoſition of <hi>the Palm-Treee,</hi> bears only a <hi>Denyal,</hi> that he had any <hi>Charter-parry:</hi> but he acknowledged that he had a Brieff, which is wronguouſly tranſlated to be a <hi>Letter;</hi> although it is true that he had ſuch a <hi>miſſive Letter.</hi> And <hi>Brieffs</hi> in the <hi>general</hi> comprehend all Papers. And the Paper found a Ship-aboard, was not a <hi>Charter-party,</hi> (which is a <hi>Contract</hi> ſubſcribed by two, <hi>viz.</hi> the <hi>Skipper</hi> and the <hi>Freighter</hi>) but onely a <hi>ſimple Obligement</hi> for payment of the <hi>Freight:</hi> ſo that this was no <hi>Concealment.</hi> And this was likewiſe hid for fear of <hi>Dutch Capers;</hi> and it is againſt ſenſe, to pretend the contrary. And it were a rare piece of <hi>Ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tice</hi> to condemn <hi>Ships</hi> upon thoſe <hi>Papers,</hi> which are the <hi>Documents</hi> of their <hi>freedom.</hi> And there was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> he Caſe of any Ships, where there was ſo clear a <hi>Pro<g ref="char:EOLhyphen"/>bation,</hi> add<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ced, as to all P<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>miſsion. And Capers ſhould be aſhamed to graſp after the Ships and Goods of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es,</hi> and to make uſe of Pretences for that effect, which are <hi>abſurd</hi> and <hi>ridiculous.</hi> And <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, the Purſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers oppone the <hi>Reports,</hi> and the <hi>Probation</hi> adduced, which may co<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ce any <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, that has a regard to <hi>Juſtice,</hi> that theſe <hi>Ships</hi> and Loadings are altogether <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</p>
+                  <p>And as to that Quality of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, bearing. <hi>That if Daills were proven counterband by the Cuſtoms of</hi> England <hi>or</hi> Holland, <hi>it ſhould be a ground of Confiſcation; albeit the Ships and Goods were proven to belong to free-m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n; in re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pect the Freight-Briefs are arbitrary, as to the Port.</hi>
+                  </p>
+                  <p>It was anſwered, 1. That it was abſurd to pretend, that the <hi>Freight-Briefs</hi> are arbitrary, as to the Port, the Port of <hi>London</hi> being the true <hi>deſigned Port,</hi> and <hi>Holland</hi> only mentioned in the caſe of <hi>contingency,</hi> in caſe the Ships ſhould be brought up thither. 2. By the <hi>Probation</hi> ad<g ref="char:EOLhyphen"/>duced, <hi>London</hi> is poſitively proven to have been the intended <hi>Port.</hi> 3. The Capers have not at
+<pb n="20" facs="tcp:174772:13"/> all proven, that by the <hi>Cuſtom</hi> of the <hi>Admiralties</hi> of <hi>England</hi> or <hi>Holland,</hi> Daills are <hi>counter<g ref="char:EOLhyphen"/>band;</hi> but on the contrary, it is proven by the <hi>Cuſtom</hi> of the ſaid <hi>Admiralties,</hi> that Daills <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re not <hi>counterband.</hi> 4. By an Extract under the hand of Secretary <hi>Coventry,</hi> of His Majeſties De<g ref="char:EOLhyphen"/>claration in favour of the <hi>Danes,</hi> it is evident, that no Goods are <hi>counterband</hi> as to the <hi>Danes,</hi> ex<g ref="char:EOLhyphen"/>except <hi>Ammunition</hi> and <hi>warlike Inſtruments,</hi> and <hi>Victual carried to places beſieged.</hi> So that al<g ref="char:EOLhyphen"/>beit theſe Ships had been abſolutely deſigned to <hi>Amſterdam,</hi> and that Daills, by the <hi>Cuſtom</hi> of thoſe <hi>Admiralties,</hi> were <hi>counterband,</hi> neither of which is true; yet, by virtue of the ſaid Declaration, Daills are not <hi>counterband</hi> to the <hi>Danes.</hi> In reſpect of all which, there is not the leaſt colour or pretence of Law, why the Decreets of Adjudication of theſe Ships ſhould not be <hi>reduced,</hi> and the Ships and Goods <hi>reſtored,</hi> or the Value, as it is proven <hi>cum omni cauſa.</hi>
+                  </p>
+               </div>
+               <div type="document">
+                  <head>Information for the <hi>Capers.</hi>
+                  </head>
+                  <p>And it being informed by the ſaid Defenders and their Procurators, That in the Reduction of the Decreets of Adjudication of the foreſaid Ships, purſued at the inſtance of the ſaid Skippers, againſt the ſaid Captain and his Owners; Amongſt ſeveral grounds of Adjudication inſiſted upon, which are the grounds of the ſaid Decreets, ſuch as the <hi>informality of the Paſſes,</hi> and that there was no <hi>ſpecial</hi> Port <hi>deſigned:</hi> the principal ground was, That albeit the Skippers pretended, that the Ships and Goods belonged to Subjects of <hi>Denmark,</hi> and that the Goods were going to <hi>England,</hi> and were to be conſigned to Merchants there; and that the Skippers being examined, <hi>concerning the having of any other Papers, but the Paſſes produced;</hi> They declared upon Oath, <hi>they had none, but each of them a miſſive Letter directed to their correſpondents in</hi> England: And particularly, being examined <hi>if they had any Charterparties,</hi> they did expreſsly depone, <hi>That they had no Charterparties.</hi> And yet, when they had taken out their <hi>miſſive Letters,</hi> in a ſecret place upon one ſide of the Ship, affirming, they had no more; yet upon the other ſide of both Ships, a ſecret place was diſcovered, in which there was concealed <hi>Freight Briefs</hi> for each of the Ships, by which the Freighters did condition to pay to the Skippers of the reſpective Ships, each particular Freight upon ſafe Delivery of the Goods in <hi>Holland.</hi> From which it was Inferred the time of the Debate, That the Paſſes being <hi>general,</hi> and not condeſcending upon the <hi>Port,</hi> albeit miſſive Letters were directed to Perſons at <hi>London;</hi> yet it was but a <hi>Contrivance,</hi> and which was clearly convelled by the <hi>Freight-Briefs,</hi> which conditioned a Freight for <hi>Holland.</hi> And albeit it was pretended by the Strangers, that theſe Freight-Briefs did condition a Freight both to <hi>England</hi> and <hi>Holland,</hi> and only to <hi>Holland,</hi> in caſe they were taken up <hi>againſt their will,</hi> and <hi>that the Goods were ſafe delivered;</hi> yet, ſo pregnant were the grounds of <hi>prevarication</hi> and <hi>contrivance,</hi> that the Lords upon that Debate, conſidering, that the Skippers did ſwear, that they had no other Papers; they notwithſtanding of their Oaths, found the <hi>Freight-Briefs</hi> to be <hi>concealed,</hi> and the grounds inſiſted upon, to be a ſufficient <hi>preſumptive Probation</hi> of a <hi>Con<g ref="char:EOLhyphen"/>trivance:</hi> but yet found, that there was place for a <hi>poſitive contrary Probation,</hi> by Writ and Witneſſes above exception, of the <hi>freedom of the Ships and Goods,</hi> and gave Commiſſion for that effect.</p>
+                  <p>The ſold Lords would be pleaſed to conſider, That long after this Debate, His <hi>Majeſtie's Inſtractions</hi> which were not then known to the Defenders in the Reduction, were ſent to their Lordſhips: by which, it was moſt evident and clear, that the having of <hi>double Documents,</hi> or <hi>concealing</hi> of any <hi>Documents</hi> was <hi>per ſe,</hi> a ſufficient ground of confiſcation of Ships and Goods; Whereupon, if the Defenders had inſiſted, undoubtedly the Lords would have aſſoiled them. And therefore, ſeing the Lords, even before knowledge of His <hi>Majeſtie's Inſtructions,</hi> found the <hi>Pre<g ref="char:EOLhyphen"/>ſumptions</hi> of Prevarication and Concealment ſo ſtrong, as appears by the Interlocutor, and albeit then, a <hi>contrary poſitive Probation</hi> of <hi>freedom</hi> was admitted; yet now the Defenders do found upon theſe emergent <hi>Inſtructions;</hi> and alledge, That <hi>eſto argumenti cauſa,</hi> the Ships and Goods were <hi>free,</hi> which truely they are not, what ever be reported by Commiſsions, (wherein great Art and Prevarication is uſed) yet theſe <hi>matterial Papers</hi> being expreſsly <hi>concealed,</hi> and that upon Oath of the Skippers, <hi>ſwearing they had no ſuch Papers:</hi> The very <hi>Concealment</hi> by the <hi>Inſtructions,</hi> is a ſufficient ground of Confiſcation, whether the Ships and Goods be <hi>free or not,</hi> and cannot admit of a <hi>contrary Probation.</hi> And therefore, it was hoped the ſaid Lords would then adviſe the Reduction, conform to the <hi>Inſtructions,</hi> without any regard to what hath been done upon the Commiſsions; Whereby in <hi>Juſtice</hi> the <hi>Adjudications</hi> muſt be ſuſtained: or otherwiſe in caſe any ſcruple remained with their Lordſhips, they would allow the Parties Pro<g ref="char:EOLhyphen"/>curators a Hearing thereanent. Eſpecially, ſeing upon a Bill lately given in by the Defenders, the ſaid Lords declared, They would hear them upon the <hi>Inſtructions.</hi>
+                  </p>
+                  <p>
+                     <hi>Which Informations above written being upon the</hi> 24. July, 1674. <hi>conſidered by the Lords, together with His</hi> Majeſtie's Inſtructions, <hi>eſpecially that Article there<g ref="char:EOLhyphen"/>of concerning</hi> double <hi>and</hi> concealed Documents; THE SAID LORDS, <hi>Notwith<g ref="char:EOLhyphen"/>ſtanding thereof, adhered to their former Interlocutor and Decreet, in reducing the foreſaid Decreets of Adjudication obtained before the</hi> Admiral; <hi>in regard of the foreſaid Probation, that the Ships and Goods belonged to the King's Allies and Free-men.</hi>
+                  </p>
+                  <pb facs="tcp:174772:13"/>
+                  <pb facs="tcp:174772:14"/>
+                  <pb facs="tcp:174772:14"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
